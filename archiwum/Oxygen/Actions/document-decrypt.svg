@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128">
+  <defs>
+    <path id="k" d="M60.094024 89.182536h42.545216l-20.958621-.270141z" opacity=".03"/>
+    <path id="l" fill="#fff" d="M60.094024 89.188911h42.545216l-20.958621.23481z" opacity=".03"/>
+    <path id="m" d="m86.670607 91.247803 17.272973.248763v.144536h-45.289z" opacity=".03"/>
+    <path id="n" fill="#fff" d="M103.94358 91.651211v.124381l-17.272973.21513-28.016027-.339511z" opacity=".03"/>
+    <path id="o" d="m89.066709 84.174828 14.876851.191605v.077355H67.480641z" opacity=".03"/>
+    <path id="p" fill="#fff" d="M103.94356 84.450484v.067224l-14.876851.168102-21.586068-.235326z" opacity=".03"/>
+    <path id="q" d="M95.490176 89.970721H41.153707l26.767236-.270141z" opacity=".03"/>
+    <path id="r" fill="#fff" d="M95.490176 89.977117H41.153707l26.767236.234811z" opacity=".03"/>
+    <path id="s" d="m60.546634 92.034422 35.783688.393341H30.758506v-.057158z" opacity=".03"/>
+    <path id="t" fill="#fff" d="m96.330322 92.437829-35.783688.342903-29.788128-.292485v-.050418z" opacity=".03"/>
+    <path id="u" d="M102.87742 85.231994H48.54094l26.767238-.27014z" opacity=".03"/>
+    <path id="v" fill="#fff" d="M102.87742 85.238412H48.54094l26.767238.234811z" opacity=".03"/>
+    <path id="w" d="m45.859357 86.127969 35.783668.393321H30.758437v-.221848z" opacity=".03"/>
+    <path id="x" fill="#fff" d="m81.643025 86.531377-35.783668.342902-15.10092-.147905v-.194997z" opacity=".03"/>
+    <path id="y" d="M104.71674 87.690109H34.19321l34.741294-.393448z" opacity=".03"/>
+    <path id="z" d="M54.320662 98.028595H96.86587l-20.958633-.27014z" opacity=".03"/>
+    <path id="A" fill="#fff" d="M54.320662 98.034992H96.86587l-20.958633.234811z" opacity=".03"/>
+    <path id="B" d="m80.899161 100.09234 23.044419.33277v.06053H52.879679z" opacity=".03"/>
+    <path id="C" fill="#fff" d="M103.94358 100.49573v.05378l-23.044419.2891-28.019482-.34288z" opacity=".03"/>
+    <path id="D" d="M61.707898 93.289783h42.545182l-20.958609-.27014z" opacity=".03"/>
+    <path id="E" fill="#fff" d="M61.707898 93.296179h42.545182l-20.958609.234811z" opacity=".03"/>
+    <path id="F" d="m88.284151 95.355758 15.659449.225218v.168081H60.268102z" opacity=".03"/>
+    <path id="G" fill="#fff" d="M103.9436 95.755797v.144535l-15.659449.198345-28.016049-.34288z" opacity=".03"/>
+    <path id="H" d="M89.716793 98.816888H35.380328l26.767233-.270141z" opacity=".03"/>
+    <path id="I" fill="#fff" d="M89.716793 98.823305H35.380328l26.767233.234812z" opacity=".03"/>
+    <path id="J" d="m54.775187 100.88237 35.780278.39332H30.758526v-.12105z" opacity=".03"/>
+    <path id="K" fill="#fff" d="m90.555465 101.28575-35.780278.33954-24.016661-.23533v-.10421z" opacity=".03"/>
+    <path id="L" d="M97.104028 94.078076h-54.33647l26.767237-.270141z" opacity=".03"/>
+    <path id="M" fill="#fff" d="M97.104028 94.084471h-54.33647l26.767237.234812z" opacity=".03"/>
+    <path id="N" d="M58.169615 103.65791H100.7148l-20.95859-.27012z" opacity=".02"/>
+    <path id="O" fill="#fff" d="M58.169615 103.6643H100.7148l-20.95859.23482z" opacity=".02"/>
+    <path id="P" d="m84.746793 105.72318 19.196787.27901v.11431H56.730764z" opacity=".02"/>
+    <path id="Q" fill="#fff" d="M103.94358 106.12656v.10086l-19.196787.23867-28.016029-.33953z" opacity=".02"/>
+    <path id="R" d="m87.142871 98.650223 16.800669.21513v.053788H65.556827z" opacity=".03"/>
+    <path id="S" fill="#fff" d="M103.94354 98.925858v.04707l-16.800669.188257-21.586044-.235327z" opacity=".03"/>
+    <path id="T" d="M93.565766 104.44612H39.229295l26.767239-.27014z" opacity=".02"/>
+    <path id="U" fill="#fff" d="M93.565766 104.4525H39.229295l26.767239.23483z" opacity=".02"/>
+    <path id="V" d="m58.622752 106.50974 35.780278.39331H30.758457v-.07731z" opacity=".02"/>
+    <path id="W" fill="#fff" d="m94.40303 106.91314-35.780278.34288-27.864295-.27566v-.06722z" opacity=".02"/>
+    <path id="X" d="M100.95298 99.70739H46.61651l26.767236-.270141z" opacity=".03"/>
+    <path id="Y" fill="#fff" d="M100.95298 99.713787H46.61651l26.767236.23481z" opacity=".03"/>
+    <path id="Z" d="M101.79174 102.16553H31.268212l34.741291-.39346z" opacity=".03"/>
+    <path id="aa" fill="#fff" d="M101.79174 102.17487H31.268212l34.741291.34201z" opacity=".03"/>
+    <path id="ab" d="M52.396232 112.50399h42.545184l-20.95861-.27014z" opacity=".01"/>
+    <path id="ac" fill="#fff" d="M52.396232 112.51039h42.545184l-20.95861.23481z" opacity=".01"/>
+    <path id="ad" d="M59.783467 107.76527h42.545213l-20.958618-.27014z" opacity=".02"/>
+    <path id="ae" fill="#fff" d="M59.783467 107.77168h42.545213l-20.958618.23481z" opacity=".02"/>
+    <path id="af" d="m86.360314 109.83109 17.583286.25548v.13782H58.344287z" opacity=".02"/>
+    <path id="ag" fill="#fff" d="M103.9436 110.23112v.12105l-17.583286.22184-28.016027-.34289z" opacity=".02"/>
+    <path id="ah" d="M87.792252 113.29228H33.455775l26.767244-.27013z" opacity=".01"/>
+    <path id="ai" fill="#fff" d="M87.792252 113.2987H33.455775l26.767244.23481z" opacity=".01"/>
+    <path id="aj" d="M95.179487 108.55347H40.843018l26.767236-.27014z" opacity=".02"/>
+    <path id="ak" fill="#fff" d="M95.179487 108.55989H40.843018l26.767236.23481z" opacity=".02"/>
+    <path id="al" d="M56.520123 82.212799H99.06533l-20.958612-.27014z" opacity=".03"/>
+    <path id="am" fill="#fff" d="M56.520123 82.219217H99.06533l-20.958612.234811z" opacity=".03"/>
+    <path id="an" d="m83.095342 84.275706 20.848258.30255v.09414H55.079337z" opacity=".03"/>
+    <path id="ao" fill="#fff" d="M103.9436 84.679092v.080704l-20.848258.262198-28.016005-.342902z" opacity=".03"/>
+    <path id="ap" d="m90.483765 79.539125 13.459835.194997v.198323H62.46776z" opacity=".03"/>
+    <path id="aq" fill="#fff" d="M103.9436 79.942491v.171472l-13.459835.168081-28.016005-.339553z" opacity=".03"/>
+    <path id="ar" d="M91.916144 83.001114h-54.33647l26.767239-.270141z" opacity=".040984"/>
+    <path id="as" fill="#fff" d="M91.916144 83.00751h-54.33647l26.767239.234811z" opacity=".040984"/>
+    <path id="at" d="M-1975.2125 351.23894h492.5064l-242.6185-3.85802z" opacity=".377049"/>
+    <path id="au" fill="#fff" d="M-1501.3637805 351.323856v.23998318l-223.97965512 3.12085682-249.88179272-3.36084z" opacity=".377049"/>
+    <path id="av" fill="#fff" d="M-1975.2125 351.33039h492.5064l-242.6185 3.35361z" opacity=".377049"/>
+    <path id="aw" d="m-861.9375 1263.25-156.5625 2.3125v1.3437H-608z" opacity=".377049"/>
+    <path id="ax" fill="#fff" d="M-1018.5 1267v1.1562l156.5625 2L-608 1267z" opacity=".377049"/>
+    <path id="ay" d="m-910.09375 1218.625-108.40625 1.4375v1.0937h304.0625z" opacity=".377049"/>
+    <path id="az" fill="#fff" d="M-1018.5 1221.2188v.9374l108.40625 1.2188 195.65625-2.1562z" opacity=".377049"/>
+    <path id="aA" d="m-883.65625 1197.5-134.84375 1.7812V1200H-688z" opacity=".377049"/>
+    <path id="aB" fill="#fff" d="M-1018.5 1200.0625v.625l134.84375 1.5625L-688 1200.0625z" opacity=".377049"/>
+    <path id="aC" d="m-634.21875 1270.5625-324.34375 3.6563h594.34375v-.5313z" opacity=".377049"/>
+    <path id="aD" fill="#fff" d="m-958.5625 1274.3125 324.34375 3.1875 270-2.7188v-.4687z" opacity=".377049"/>
+    <path id="aE" fill="#fff" d="M-1958.4764 351.33067918v.24013682l233.1562 3.12085682 242.625-3.36099364z" opacity=".377049"/>
+    <path id="aF" fill="#fff" d="M-1949.4487505 351.32752882v.36263268l224.13541116 2.99957768 242.60268587-3.36221036z" opacity=".377049"/>
+    <path id="aG" d="m-501.09375 1215.6562-324.34375 3.6563h461.21875v-2.0625z" opacity=".377049"/>
+    <path id="aH" fill="#fff" d="m-825.4375 1219.4062 324.34375 3.1876 136.875-1.375v-1.8126z" opacity=".377049"/>
+    <path id="aI" fill="#fff" d="M-1969.83678926 351.3153345v.06592363l244.50475257 3.29618125 242.62676316-3.36210488z" opacity=".377049"/>
+    <path id="aJ" d="m-809.625 1345.4688-208.875 3.0937v.5625h462.84375z" opacity=".377049"/>
+    <path id="aK" fill="#fff" d="M-1018.5 1349.2188v.5l208.875 2.6874 253.96875-3.1874z" opacity=".377049"/>
+    <path id="aL" d="M-857.78125 1300.875-1018.5 1303v.375h356.40625z" opacity=".377049"/>
+    <path id="aM" fill="#fff" d="M-1018.5 1303.4375v.3437l160.71875 1.8438 195.6875-2.1875z" opacity=".377049"/>
+    <path id="aN" d="m-876.5625 1301.4375-141.9375 2.0937v1.5626h395.875z" opacity=".377049"/>
+    <path id="aO" fill="#fff" d="M-1018.5 1305.1562v1.3438l141.9375 1.8438 253.9375-3.1876z" opacity=".377049"/>
+    <path id="aP" d="m-581.90625 1352.8125-324.3125 3.6563h542v-1.125z" opacity=".377049"/>
+    <path id="aQ" fill="#fff" d="m-906.21875 1356.5625 324.3125 3.1563 217.6875-2.1876v-.9687z" opacity=".377049"/>
+    <path id="aR" d="m-648.84375 1308.75-324.34375 3.6562h608.96875v-.3437z" opacity=".377049"/>
+    <path id="aS" fill="#fff" d="m-973.1875 1312.5 324.34375 3.1875 284.625-2.875v-.3125z" opacity=".377049"/>
+    <path id="aT" d="m-844.5 1397.8125-174 2.5937v1.0626h427.9375z" opacity=".377049"/>
+    <path id="aU" fill="#fff" d="M-1018.5 1401.5625v.9375l174 2.2188 253.9375-3.1563z" opacity=".377049"/>
+    <path id="aV" d="m-866.21875 1332.0625-152.28125 2v.5h347.9375z" opacity=".377049"/>
+    <path id="aW" fill="#fff" d="M-1018.5 1334.625v.4375l152.28125 1.75 195.65625-2.1875z" opacity=".377049"/>
+    <path id="aX" d="m-616.78125 1405.125-324.3125 3.6562h576.875v-.7187z" opacity=".377049"/>
+    <path id="aY" fill="#fff" d="m-941.09375 1408.875 324.3125 3.1875 252.5625-2.5625v-.625z" opacity=".377049"/>
+    <path id="aZ" d="m-859.125 1436-159.375 2.375v1.2812h413.3125z" opacity=".377049"/>
+    <path id="ba" fill="#fff" d="M-1018.5 1439.7188v1.125l159.375 2.0624 253.9375-3.1874z" opacity=".377049"/>
+    <path id="bb" d="M-855.96875 1219.5938-1018.5 1222v1.25h416.46875z" opacity=".377049"/>
+    <path id="bc" fill="#fff" d="M-1018.5 1223.3438v1.0937l162.53125 2.0937 253.9375-3.1874z" opacity=".377049"/>
+    <path id="bd" d="M-829.53125 1198.4375-1018.5 1201.25v.875h442.90625z" opacity=".377049"/>
+    <path id="be" fill="#fff" d="M-1018.5 1202.1875v.75l188.96875 2.4375 253.9375-3.1875z" opacity=".377049"/>
+    <path id="bf" d="m-896.5 1154.4062-122 1.8126v1.8437h375.9375z" opacity=".377049"/>
+    <path id="bg" fill="#fff" d="M-1018.5 1158.1562v1.5938l122 1.5625 253.9375-3.1563z" opacity=".377049"/>
+    <path id="bh" d="m-628.25 1226.9375-324.34375 3.6563h588.375V1230z" opacity=".377049"/>
+    <path id="bi" fill="#fff" d="m-952.59375 1230.6562 324.34375 3.1876 264.03125-2.6876v-.5z" opacity=".377049"/>
+    <path id="bj" d="m-601.8125 1205.7812-324.34375 3.6563h561.9375v-.9063z" opacity=".377049"/>
+    <path id="bk" fill="#fff" d="m-926.15625 1209.5312 324.34375 3.1876 237.59375-2.4063v-.7813z" opacity=".377049"/>
+    <path id="bl" d="M60.094024 68.541171h42.545216l-20.958621-.337106z" opacity=".040984"/>
+    <path id="bm" fill="#fff" d="M60.094024 68.549199h42.545216l-20.958621.29302z" opacity=".040984"/>
+    <path id="bn" d="m86.670607 71.118645 17.272973.310471v.180359h-45.289z" opacity=".040984"/>
+    <path id="bo" fill="#fff" d="M103.94358 71.622074v.155246l-17.272973.268487-28.016027-.423733z" opacity=".040984"/>
+    <path id="bp" d="m80.350073 63.466518 22.335567.191627v.077312H47.941508z" opacity=".06"/>
+    <path id="bq" fill="#fff" d="M102.68564 63.742174v.067225l-22.335567.168103-32.408565-.235328z" opacity=".06"/>
+    <path id="br" d="M95.490176 69.524847H41.153707l26.767236-.337129z" opacity=".040984"/>
+    <path id="bs" fill="#fff" d="M95.490176 69.532832H41.153707l26.767236.293042z" opacity=".040984"/>
+    <path id="bt" d="m60.546634 72.100346 35.783688.490851H30.758506v-.071302z" opacity=".040984"/>
+    <path id="bu" fill="#fff" d="m96.330322 72.603795-35.783688.42792-29.788128-.365009v-.062911z" opacity=".040984"/>
+    <path id="bv" d="M102.87742 64.523685H48.54094l26.767238-.270141z" opacity=".06"/>
+    <path id="bw" fill="#fff" d="M102.87742 64.530081H48.54094l26.767238.234811z" opacity=".06"/>
+    <path id="bx" d="m45.859357 65.419661 35.783668.393319H30.758437v-.221869z" opacity=".040984"/>
+    <path id="by" fill="#fff" d="m81.643025 65.823068-35.783668.342901-15.10092-.147926v-.194975z" opacity=".040984"/>
+    <path id="bz" d="M104.71674 66.981821H34.19321l34.741294-.39347z" opacity=".06"/>
+    <path id="bA" d="m80.899161 79.384008 23.044419.332793v.060527H52.879679z" opacity=".03"/>
+    <path id="bB" fill="#fff" d="M103.94358 79.787416v.053788l-23.044419.289072-28.019482-.34286z" opacity=".03"/>
+    <path id="bC" d="M61.707898 73.666994h42.545182l-20.958609-.337128z" opacity=".03"/>
+    <path id="bD" fill="#fff" d="M61.707898 73.674978h42.545182l-20.958609.293042z" opacity=".03"/>
+    <path id="bE" d="m88.284151 76.245305 15.659449.281087v.209785H60.268102z" opacity=".03"/>
+    <path id="bF" fill="#fff" d="M103.9436 76.744547v.180402l-15.659449.247518-28.016049-.42792z" opacity=".03"/>
+    <path id="bG" fill="#fff" d="M97.104028 74.658783h-54.33647l26.767237.29302z" opacity=".040984"/>
+    <path id="bH" fill="#fff" d="M100.95298 79.005477H46.61651l26.767236.234812z" opacity=".03"/>
+    <path id="bI" d="M30.485153 61.50449h63.875876l-31.466546-.27014z" opacity=".040984"/>
+    <path id="bJ" fill="#fff" d="M30.485153 61.510887h63.875876l-31.466546.234811z" opacity=".040984"/>
+    <path id="bK" d="m70.384255 63.567375 31.300825.302573v.094117H28.321959z" opacity=".040984"/>
+    <path id="bL" fill="#fff" d="M103.9436 63.970783v.080704l-20.848258.262198-28.016005-.342902z" opacity=".06"/>
+    <path id="bM" d="m82.477595 58.830816 20.208105.194975v.198324H40.415307z" opacity=".06"/>
+    <path id="bN" fill="#fff" d="M102.6857 59.234203v.171429l-20.208105.168103-42.062288-.339532z" opacity=".06"/>
+  </defs>
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#323232"/>
+      <stop offset="1" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bO" x1="74.429703" x2="124.5117" y1="81.947304" y2="81.947304" gradientTransform="matrix(-1.43764 0 0 1.46473 207.0038 -61.58986)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#debc85"/>
+      <stop offset=".1763" stop-color="#bd9b63"/>
+      <stop offset=".3869" stop-color="#9c783f"/>
+      <stop offset=".5" stop-color="#8f6b32"/>
+      <stop offset="1" stop-color="#debc85"/>
+    </linearGradient>
+    <linearGradient id="j" x1="126.42596" x2="73.339935" y1="101.83096" y2="101.83096" gradientTransform="matrix(1.53075 0 0 1.48492 -216.2652 -63.21078)" gradientUnits="userSpaceOnUse">
+      <stop offset=".0237" stop-color="#b3925d"/>
+      <stop offset=".025" stop-color="#b7975d"/>
+      <stop offset=".0348" stop-color="#d1b55a"/>
+      <stop offset=".0451" stop-color="#e5cd58"/>
+      <stop offset=".056" stop-color="#f4de56"/>
+      <stop offset=".068" stop-color="#fce855"/>
+      <stop offset=".0828" stop-color="#ffeb55"/>
+      <stop offset=".0986" stop-color="#fce242"/>
+      <stop offset=".1278" stop-color="#f8d525"/>
+      <stop offset=".1568" stop-color="#f5cb11"/>
+      <stop offset=".1854" stop-color="#f4c504"/>
+      <stop offset=".213" stop-color="#f3c300"/>
+      <stop offset=".2931" stop-color="#dfae00"/>
+      <stop offset=".3765" stop-color="#d19e00"/>
+      <stop offset=".4438" stop-color="#c90"/>
+      <stop offset=".6982" stop-color="#e3ad00"/>
+      <stop offset=".8402" stop-color="#fd0"/>
+      <stop offset=".8602" stop-color="#ffe72f"/>
+      <stop offset=".8868" stop-color="#fff468"/>
+      <stop offset=".9066" stop-color="#fffc8c"/>
+      <stop offset=".9172" stop-color="#ff9"/>
+      <stop offset=".9304" stop-color="#fcfb96"/>
+      <stop offset=".944" stop-color="#f2ee8d"/>
+      <stop offset=".958" stop-color="#e3da7f"/>
+      <stop offset=".972" stop-color="#cdbd6b"/>
+      <stop offset=".986" stop-color="#b19851"/>
+      <stop offset="1" stop-color="#8f6b32"/>
+    </linearGradient>
+    <linearGradient id="i" x1="118.3994" x2="80.389603" y1="63.5093" y2="63.5093" gradientTransform="matrix(1.52909 0 0 1.58147 -88.09911 -66.96392)" gradientUnits="userSpaceOnUse">
+      <stop offset=".2899" stop-color="#fff"/>
+      <stop offset=".459" stop-color="#ececec"/>
+      <stop offset=".811" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#bbb"/>
+    </linearGradient>
+    <linearGradient id="g" x1="117.2334" x2="83.030296" y1="64.213898" y2="64.213898" gradientTransform="matrix(1.52909 0 0 1.55174 -88.09911 -64.98376)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#888"/>
+      <stop offset=".0079" stop-color="#868686"/>
+      <stop offset=".1453" stop-color="#626262"/>
+      <stop offset=".2189" stop-color="#555"/>
+      <stop offset=".2473" stop-color="#575757"/>
+      <stop offset=".7371" stop-color="#7b7b7b"/>
+      <stop offset="1" stop-color="#888"/>
+    </linearGradient>
+    <linearGradient id="d" x1="78.542999" x2="120.3984" y1="62.576698" y2="62.576698" gradientTransform="matrix(1.52909 0 0 1.58147 -88.09911 -66.96392)" gradientUnits="userSpaceOnUse">
+      <stop offset=".0059" stop-color="#ddd"/>
+      <stop offset=".1065" stop-color="#bbb"/>
+      <stop offset=".2799" stop-color="#b2b2b2"/>
+      <stop offset=".5571" stop-color="#9b9b9b"/>
+      <stop offset=".7396" stop-color="#888"/>
+      <stop offset="1" stop-color="#bbb"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset=".0059" stop-color="#888"/>
+      <stop offset=".1775" stop-color="#bbb"/>
+      <stop offset=".4387" stop-color="#c4c4c4"/>
+      <stop offset=".8565" stop-color="#dbdbdb"/>
+      <stop offset=".8876" stop-color="#ddd"/>
+      <stop offset="1" stop-color="#bbb"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="f" x1="99.470703" x2="120.3984" y1="62.576698" y2="62.576698" gradientTransform="matrix(1.52909 0 0 1.58147 -88.09911 -66.96392)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#a" id="e" x1="78.542999" x2="99.470703" y1="62.576698" y2="62.576698" gradientTransform="matrix(1.52909 0 0 1.58147 -88.09911 -66.96392)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#b" id="bP" x1="89.90625" x2="89.90625" y1="36" y2="32" gradientTransform="matrix(1 0 -.04016 .5 1.445768 18)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#b" id="c" cx="63.912209" cy="115.70919" r="63.912209" fy="115.7093" gradientTransform="matrix(1 0 0 .1978 0 92.82166)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient id="h" cx="98.667999" cy="83.244102" r="36.6605" gradientTransform="matrix(1.52909 0 0 1.55174 -88.09911 -64.98376)" gradientUnits="userSpaceOnUse">
+      <stop offset=".2544" stop-color="#fff"/>
+      <stop offset=".2903" stop-color="#f2f2f2"/>
+      <stop offset=".4589" stop-color="#b9b9b9"/>
+      <stop offset=".584" stop-color="#959595"/>
+      <stop offset=".6509" stop-color="#888"/>
+      <stop offset=".8549" stop-color="#a9a9a9"/>
+      <stop offset="1" stop-color="#bbb"/>
+    </radialGradient>
+  </defs>
+  <path fill="url(#c)" d="M127.82442 115.70919a63.912209 12.641975 0 1 1-127.82442 0 63.912209 12.641975 0 1 1 127.82442 0z" opacity=".381395" transform="matrix(1.00134 0 0 .41035 .002085 75.3311)"/>
+  <path fill="#fff" fill-opacity=".756881" d="M50.892799 3.2812959V.48658747zM83.506069-209.2712v-2.79471z"/>
+  <path fill="url(#d)" d="M64 4c-17.674715-1e-7-32 14.476252-32 32.34375C31.999999 54.211251 32 60 32 60h11.75c-.000001-8.236316 0-23.8125 0-23.8125-.000001-11.111438 9.09072-20.15625 20.25-20.15625 11.099315 0 20.150722 8.941448 20.25 19.96875H96C95.817389 18.292391 81.558602 4 64 4z"/>
+  <path fill="url(#e)" d="M32.000049 36.35226v23.646214h1.82726V36.35226c0-17.867504 13.507963-32.3522338 30.171964-32.3522338-17.673199 0-31.999224 14.4847298-31.999224 32.3522338z"/>
+  <path fill="url(#f)" d="M67.09375 4.15625C82.203384 5.801577 94.025001 19.406165 94.1875 36H96C95.82681 19.342444 83.206918 5.7153638 67.09375 4.15625z"/>
+  <path fill="url(#g)" d="M65.65625 9.3125C49.489216 9.3125002 38.875 18.94367 38.875 35.75c-.000002.000001 0 18.028481 0 24.25h4.09375c.000001-6.245241 0-24.4375 0-24.4375.000001-12.885855 10.179568-23.375 22.6875-23.375 12.504882 0 22.6875 10.489146 22.6875 23.375V36h2.8125v-.25c-.001531-16.806329-9.334494-26.4375-25.5-26.4375z"/>
+  <path fill="url(#h)" d="M62.5625 11.53125c-14.353131.555079-23.6875 9.706396-23.6875 25.28125-.000002 0 0 17.236411 0 23.1875h3.84375c.000001-5.97481 0-23.375 0-23.375.000001-12.326014 9.532605-22.375 21.25-22.375 11.520837 0 20.904022 9.70931 21.21875 21.75h2.65625c-.289481-15.576996-8.982857-24.46875-23.875-24.46875-.4733 0-.943246-.017906-1.40625 0z"/>
+  <path fill="url(#i)" d="M64 6c-15.812285-2e-7-28.625 13.920705-28.625 29.90625.000001 12.91274 0 21.329334 0 24.09375h1.28125c.000002-4.054898 0-11.391595 0-21.46875C36.656252 22.548869 48.187713 9.59375 64 9.59375 80.320654 9.5937501 90.348308 19.748922 91.28125 36H92.625v-.96875C92.624996 18.349147 80.314882 6 64 6z"/>
+  <path fill="url(#j)" d="M-104 56h80v64h-80z" transform="scale(-1 1)"/>
+  <g fill-rule="evenodd" transform="translate(-2.58563)">
+    <path d="M63.010092 91.457052h42.545168l-20.958617-.270141z" opacity=".03"/>
+    <path fill="#fff" d="M103.94356 91.462975v.016806l-19.348502.218521-21.586067-.235327z" opacity=".03"/>
+    <use xlink:href="#k" opacity=".03"/>
+    <use xlink:href="#l" opacity=".03"/>
+    <use xlink:href="#m" opacity=".03"/>
+    <use xlink:href="#n" opacity=".03"/>
+    <use xlink:href="#k" opacity=".03"/>
+    <use xlink:href="#l" opacity=".03"/>
+    <use xlink:href="#m" opacity=".03"/>
+    <use xlink:href="#n" opacity=".03"/>
+    <path d="m91.98348 86.447347 11.9601.154645v.117642H70.397459z" opacity=".03"/>
+    <path fill="#fff" d="M103.94358 86.726374v.100814l-11.9601.131143-21.586021-.231957z" opacity=".03"/>
+    <use xlink:href="#o" opacity=".03"/>
+    <use xlink:href="#p" opacity=".03"/>
+    <use xlink:href="#o" opacity=".03"/>
+    <use xlink:href="#p" opacity=".03"/>
+    <path d="M98.406221 92.245344H44.069729l26.767237-.270119z" opacity=".03"/>
+    <path fill="#fff" d="M98.406221 92.25174H44.069729l26.767237.234812z" opacity=".03"/>
+    <path d="M99.24496 94.703459H28.72144l34.741305-.39347z" opacity=".03"/>
+    <path fill="#fff" d="M99.24496 94.712774H28.72144l34.741305.342044z" opacity=".03"/>
+    <use xlink:href="#q" opacity=".03"/>
+    <use xlink:href="#r" opacity=".03"/>
+    <use xlink:href="#s" opacity=".03"/>
+    <use xlink:href="#t" opacity=".03"/>
+    <use xlink:href="#q" opacity=".03"/>
+    <use xlink:href="#r" opacity=".03"/>
+    <use xlink:href="#s" opacity=".03"/>
+    <use xlink:href="#t" opacity=".03"/>
+    <path d="M105.79344 87.506617H51.456942l26.767237-.270141z" opacity=".03"/>
+    <path fill="#fff" d="M103.94699 87.512992v.016828l-25.723273.21852-26.767941-.235348z" opacity=".03"/>
+    <path d="M106.58563 89.964711H37.10928l34.225445-.393448z" opacity=".03"/>
+    <path fill="#fff" d="M103.9436 89.973726v.037003l-32.094635.305899-34.739046-.342902z" opacity=".03"/>
+    <use xlink:href="#u" opacity=".03"/>
+    <use xlink:href="#v" opacity=".03"/>
+    <use xlink:href="#w" opacity=".03"/>
+    <use xlink:href="#x" opacity=".03"/>
+    <use xlink:href="#y" opacity=".03"/>
+    <path fill="#fff" d="M104.71674 87.699468H34.19321l34.741294.342021z" opacity=".03"/>
+    <use xlink:href="#u" opacity=".03"/>
+    <use xlink:href="#v" opacity=".03"/>
+    <use xlink:href="#w" opacity=".03"/>
+    <use xlink:href="#x" opacity=".03"/>
+    <use xlink:href="#y" opacity=".03"/>
+    <path fill="#fff" d="M103.94699 87.697879v.00674l-35.011385.336162-34.742473-.342902z" opacity=".03"/>
+    <path d="M57.236708 100.30314h42.545185l-20.958611-.27013z" opacity=".03"/>
+    <path fill="#fff" d="M57.236708 100.30953h42.545185l-20.958611.23481z" opacity=".03"/>
+    <path d="m83.812478 102.36818 20.131122.29249v.10083H55.79645z" opacity=".03"/>
+    <path fill="#fff" d="M103.9436 102.7716v.08739l-20.131122.25214-28.016028-.33953z" opacity=".03"/>
+    <use xlink:href="#z" opacity=".03"/>
+    <use xlink:href="#A" opacity=".03"/>
+    <use xlink:href="#B" opacity=".03"/>
+    <use xlink:href="#C" opacity=".03"/>
+    <use xlink:href="#z" opacity=".03"/>
+    <use xlink:href="#A" opacity=".03"/>
+    <use xlink:href="#B" opacity=".03"/>
+    <use xlink:href="#C" opacity=".03"/>
+    <path d="m86.212035 95.295231 17.731525.228587v.040331H64.622534z" opacity=".03"/>
+    <path fill="#fff" d="M103.94356 95.570888v.03696l-17.731525.198345-21.589501-.235305z" opacity=".03"/>
+    <use xlink:href="#D" opacity=".03"/>
+    <use xlink:href="#E" opacity=".03"/>
+    <use xlink:href="#F" opacity=".03"/>
+    <use xlink:href="#G" opacity=".03"/>
+    <use xlink:href="#D" opacity=".03"/>
+    <use xlink:href="#E" opacity=".03"/>
+    <use xlink:href="#F" opacity=".03"/>
+    <use xlink:href="#G" opacity=".03"/>
+    <path d="M92.632839 101.09142h-54.33647l26.767238-.27013z" opacity=".03"/>
+    <path fill="#fff" d="M92.632839 101.09783h-54.33647l26.767238.23481z" opacity=".03"/>
+    <path d="m57.688461 103.15487 35.783688.39332H30.758457v-.08742z" opacity=".03"/>
+    <path fill="#fff" d="m93.472149 103.55825-35.783688.34291-26.930004-.26559v-.07732z" opacity=".02"/>
+    <use xlink:href="#H" opacity=".03"/>
+    <use xlink:href="#I" opacity=".03"/>
+    <use xlink:href="#J" opacity=".03"/>
+    <use xlink:href="#K" opacity=".03"/>
+    <use xlink:href="#H" opacity=".03"/>
+    <use xlink:href="#I" opacity=".03"/>
+    <use xlink:href="#J" opacity=".03"/>
+    <use xlink:href="#K" opacity=".03"/>
+    <path d="M100.01996 96.352698H45.683494l26.767214-.27014z" opacity=".03"/>
+    <path fill="#fff" d="M100.01996 96.359116H45.683494l26.767214.234811z" opacity=".03"/>
+    <path d="M100.85881 98.810856H30.335265l34.741332-.393448z" opacity=".03"/>
+    <path fill="#fff" d="M100.85881 98.820193H30.335265l34.741332.342023z" opacity=".03"/>
+    <use xlink:href="#L" opacity=".03"/>
+    <use xlink:href="#M" opacity=".03"/>
+    <path d="m62.160112 96.14242 35.783689.393299H30.758457v-.036982z" opacity=".03"/>
+    <path fill="#fff" d="m97.943801 96.545807-35.783689.34288-31.401655-.309247v-.033633z" opacity=".03"/>
+    <use xlink:href="#L" opacity=".03"/>
+    <use xlink:href="#M" opacity=".03"/>
+    <path d="M97.942897 96.536212H31.306342l32.826498-.393448z" opacity=".03"/>
+    <path fill="#fff" d="M97.942897 96.545549H31.306342l32.826498.342021z" opacity=".03"/>
+    <path d="M61.08566 105.93243h42.54518l-20.958607-.27013z" opacity=".02"/>
+    <path fill="#fff" d="M61.08566 105.93884h42.54518l-20.958607.23481z" opacity=".02"/>
+    <path d="m87.663565 107.99568 16.280035.2353v.15801H59.644081z" opacity=".02"/>
+    <path fill="#fff" d="M103.9436 108.39908v.13782l-16.280035.20506-28.019484-.34288z" opacity=".02"/>
+    <use xlink:href="#N" opacity=".02"/>
+    <use xlink:href="#O" opacity=".02"/>
+    <use xlink:href="#P" opacity=".02"/>
+    <use xlink:href="#Q" opacity=".02"/>
+    <use xlink:href="#N" opacity=".02"/>
+    <use xlink:href="#O" opacity=".02"/>
+    <use xlink:href="#P" opacity=".02"/>
+    <use xlink:href="#Q" opacity=".02"/>
+    <path d="m90.059643 100.92266 13.883917.18153v.09075H68.47362z" opacity=".03"/>
+    <path fill="#fff" d="M103.94356 101.20168v.07731l-13.883917.15463-21.586023-.23194z" opacity=".03"/>
+    <use xlink:href="#R" opacity=".03"/>
+    <use xlink:href="#S" opacity=".03"/>
+    <use xlink:href="#R" opacity=".03"/>
+    <use xlink:href="#S" opacity=".03"/>
+    <path d="M96.48168 106.72074H42.145232l26.767216-.27014z" opacity=".02"/>
+    <path fill="#fff" d="M96.48168 106.72714H42.145232l26.767216.23481z" opacity=".02"/>
+    <path d="m61.539458 108.78562 35.780234.39333H30.758369v-.04373z" opacity=".02"/>
+    <path fill="#fff" d="m97.319692 109.189-35.780234.34291-30.781089-.30255v-.04036z" opacity=".02"/>
+    <use xlink:href="#T" opacity=".02"/>
+    <use xlink:href="#U" opacity=".02"/>
+    <use xlink:href="#V" opacity=".02"/>
+    <use xlink:href="#W" opacity=".02"/>
+    <use xlink:href="#T" opacity=".02"/>
+    <use xlink:href="#U" opacity=".02"/>
+    <use xlink:href="#V" opacity=".02"/>
+    <use xlink:href="#W" opacity=".02"/>
+    <path d="M103.86896 101.98203H49.532489l26.767236-.27013z" opacity=".03"/>
+    <path fill="#fff" d="M103.86896 101.98841H49.532489l26.767236.23481z" opacity=".03"/>
+    <path d="m46.852293 102.87921 35.783688.39332H30.758437v-.21178z" opacity=".03"/>
+    <path fill="#fff" d="m82.635981 103.28262-35.783688.3429-16.093856-.15801v-.18489z" opacity=".03"/>
+    <path d="M105.70838 104.44017H35.184826l34.741314-.39347z" opacity=".02"/>
+    <path fill="#fff" d="M105.70838 104.44951H35.184826l34.741314.34202z" opacity=".02"/>
+    <use xlink:href="#X" opacity=".03"/>
+    <use xlink:href="#Y" opacity=".03"/>
+    <use xlink:href="#Z" opacity=".03"/>
+    <use xlink:href="#aa" opacity=".03"/>
+    <use xlink:href="#X" opacity=".03"/>
+    <use xlink:href="#Y" opacity=".03"/>
+    <use xlink:href="#Z" opacity=".03"/>
+    <use xlink:href="#aa" opacity=".03"/>
+    <path d="M55.312256 114.77853h42.545207l-20.958612-.27015z" opacity=".01"/>
+    <path fill="#fff" d="M55.312256 114.78492h42.545207l-20.958612.23481z" opacity=".01"/>
+    <path d="M53.871841 117.23668h48.140219l-20.122892-.39346z" opacity=".01"/>
+    <path fill="#fff" d="m53.871841 117.246 47.877339.21972-19.860012.12231z" opacity=".01"/>
+    <use xlink:href="#ab" opacity=".01"/>
+    <use xlink:href="#ac" opacity=".01"/>
+    <path d="M50.955798 114.96204H106.1754l-27.202276-.39347z" opacity=".01"/>
+    <path fill="#fff" d="m50.955798 114.97136 52.534322.05495-27.202281.34202z" opacity=".01"/>
+    <use xlink:href="#ab" opacity=".01"/>
+    <use xlink:href="#ac" opacity=".01"/>
+    <path d="m50.955798 114.96204 52.496792.18311-24.479466-.57658z" opacity=".01"/>
+    <path fill="#fff" d="M103.94358 114.97108v.02687l-24.971711.31601-28.016006-.34288z" opacity=".01"/>
+    <path d="M62.699512 110.0398H105.2447l-20.958615-.27011z" opacity=".02"/>
+    <path fill="#fff" d="M62.699512 110.0462H105.2447l-20.958615.23481z" opacity=".02"/>
+    <use xlink:href="#ad" opacity=".02"/>
+    <use xlink:href="#ae" opacity=".02"/>
+    <use xlink:href="#af" opacity=".02"/>
+    <use xlink:href="#ag" opacity=".02"/>
+    <use xlink:href="#ad" opacity=".02"/>
+    <use xlink:href="#ae" opacity=".02"/>
+    <use xlink:href="#af" opacity=".02"/>
+    <use xlink:href="#ag" opacity=".02"/>
+    <path d="M90.70832 115.56682H36.371827l26.767237-.27014z" opacity=".01"/>
+    <path fill="#fff" d="M90.70832 115.57322H36.371827l26.767237.23481z" opacity=".01"/>
+    <use xlink:href="#ah" opacity=".01"/>
+    <use xlink:href="#ai" opacity=".01"/>
+    <use xlink:href="#ah" opacity=".01"/>
+    <use xlink:href="#ai" opacity=".01"/>
+    <path d="M98.095553 110.82809H43.759084l26.767216-.27014z" opacity=".02"/>
+    <path fill="#fff" d="M98.095553 110.83451H43.759084l26.767216.23482z" opacity=".02"/>
+    <path d="M98.93438 113.28625H28.41084l34.741305-.39345z" opacity=".01"/>
+    <path fill="#fff" d="M98.93438 113.29559H28.41084l34.741305.34202z" opacity=".01"/>
+    <use xlink:href="#aj" opacity=".02"/>
+    <use xlink:href="#ak" opacity=".02"/>
+    <path d="m60.236252 110.61775 35.783689.39332H30.758388v-.06052z" opacity=".02"/>
+    <path fill="#fff" d="m96.019941 111.02113-35.783689.34291-29.477864-.29246v-.05045z" opacity=".01"/>
+    <use xlink:href="#aj" opacity=".02"/>
+    <use xlink:href="#ak" opacity=".02"/>
+    <path d="M96.018445 111.01161H30.795369l32.130196-.39345z" opacity=".02"/>
+    <path fill="#fff" d="M96.018445 111.02095H30.795369l32.130196.34202z" opacity=".01"/>
+    <path d="M101.44444 78.887685H30.920897l34.741287-.393427z" opacity=".040984"/>
+    <path fill="#fff" d="M101.44444 78.897043H30.920897l34.741287.342022z" opacity=".040984"/>
+    <path d="M59.436168 84.487337h42.545182l-20.958607-.270141z" opacity=".03"/>
+    <path fill="#fff" d="M59.436168 84.493733h42.545182l-20.958607.234811z" opacity=".03"/>
+    <path d="m86.012027 86.551553 17.931463.258851v.134468H57.996021z" opacity=".03"/>
+    <path fill="#fff" d="M103.94349 86.95496v.117664l-17.931463.225217-28.016006-.342881z" opacity=".03"/>
+    <use xlink:href="#al" opacity=".03"/>
+    <use xlink:href="#am" opacity=".03"/>
+    <use xlink:href="#an" opacity=".03"/>
+    <use xlink:href="#ao" opacity=".03"/>
+    <use xlink:href="#al" opacity=".03"/>
+    <use xlink:href="#am" opacity=".03"/>
+    <use xlink:href="#an" opacity=".03"/>
+    <use xlink:href="#ao" opacity=".03"/>
+    <path d="m88.411694 79.478642 15.531886.198322v.070616H66.822192z" opacity=".03"/>
+    <path fill="#fff" d="M103.94358 79.754277v.060527l-15.531886.174799-21.589502-.235326z" opacity=".03"/>
+    <use xlink:href="#ap" opacity=".03"/>
+    <use xlink:href="#aq" opacity=".03"/>
+    <use xlink:href="#ap" opacity=".03"/>
+    <use xlink:href="#aq" opacity=".03"/>
+    <path d="M94.832189 85.275651H40.49572l26.767236-.27014z" opacity=".03"/>
+    <path fill="#fff" d="M94.832189 85.282047H40.49572l26.767236.234812z" opacity=".03"/>
+    <path d="m59.888119 87.341562 35.783666.39332H30.758486v-.063897z" opacity=".03"/>
+    <path fill="#fff" d="m95.671785 87.741579-35.783666.342902-29.129633-.289114v-.053788z" opacity=".03"/>
+    <use xlink:href="#ar" opacity=".040984"/>
+    <use xlink:href="#as" opacity=".040984"/>
+    <path d="m56.971259 85.065694 35.783712.39332H30.758388v-.097488z" opacity=".03"/>
+    <path fill="#fff" d="m92.754971 85.469102-35.783712.34288-26.212871-.258829v-.084051z" opacity=".03"/>
+    <use xlink:href="#ar" opacity=".040984"/>
+    <use xlink:href="#as" opacity=".040984"/>
+    <path d="M102.2194 80.536924H47.882932l26.767237-.270141z" opacity=".03"/>
+    <path fill="#fff" d="M102.2194 80.54332H47.882932l26.767237.234811z" opacity=".03"/>
+    <path d="M104.05888 82.995082H33.535326l34.741325-.39347z" opacity=".040984"/>
+    <path fill="#fff" d="M104.05888 83.004397H33.535326l34.741325.342044z" opacity=".040984"/>
+    <path d="M100.14225 80.720438H29.618722l34.741291-.39347z" opacity=".040984"/>
+    <path fill="#fff" d="M100.14225 80.729753H29.618722l34.741291.342043z" opacity=".040984"/>
+    <path d="M100.14225 80.720438H31.738885l33.696874-.39347z" opacity=".040984"/>
+    <path fill="#fff" d="M100.14225 80.729753H31.738885l33.696874.342043z" opacity=".040984"/>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -49.22982 67.15712)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#au" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -47.44217 64.88262)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.1750657 -44.35159482)">
+      <use xlink:href="#aw" opacity=".377049"/>
+      <use xlink:href="#ax" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -47.44217 64.88262)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.1750657 -44.35159482)">
+      <use xlink:href="#aw" opacity=".377049"/>
+      <use xlink:href="#ax" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.17518222 -44.35140465)">
+      <use xlink:href="#ay" opacity=".377049"/>
+      <use xlink:href="#az" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.1752562 -44.35131426)">
+      <use xlink:href="#aA" opacity=".377049"/>
+      <use xlink:href="#aB" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.1752562 -44.35131426)">
+      <use xlink:href="#aA" opacity=".377049"/>
+      <use xlink:href="#aB" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 168.2823 67.94547)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08779 0 0 .10199 206.9554 59.17459)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 170.0703 65.67076)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17584802 -44.35152274)">
+      <use xlink:href="#aC" opacity=".377049"/>
+      <use xlink:href="#aD" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 170.0703 65.67076)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17584802 -44.35152274)">
+      <use xlink:href="#aC" opacity=".377049"/>
+      <use xlink:href="#aD" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 162.7529 63.20674)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#aE" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08779 0 0 .10199 201.4257 54.43587)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#aF" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 164.5406 60.93203)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17584655 -44.35152457)">
+      <use xlink:href="#aG" opacity=".377049"/>
+      <use xlink:href="#aH" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08779 0 0 .10199 203.2138 52.16138)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 164.5406 60.93203)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17584655 -44.35152457)">
+      <use xlink:href="#aG" opacity=".377049"/>
+      <use xlink:href="#aH" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08779 0 0 .10199 203.2138 52.16138)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#aI" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -44.68948 76.00332)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.1749561 -44.35162869)">
+      <path d="m-836.03125 1366.625-182.46875 2.7188v.9374h436.40625z" opacity=".377049"/>
+      <path fill="#fff" d="M-1018.5 1370.375v.8125l182.46875 2.3437 253.9375-3.1562z" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -42.90183 73.72883)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.1749461 -44.35150263)">
+      <use xlink:href="#aJ" opacity=".377049"/>
+      <use xlink:href="#aK" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -42.90183 73.72883)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.1749461 -44.35150263)">
+      <use xlink:href="#aJ" opacity=".377049"/>
+      <use xlink:href="#aK" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.17525097 -44.35131405)">
+      <use xlink:href="#aL" opacity=".377049"/>
+      <use xlink:href="#aM" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -48.43156 68.98989)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.1752927 -44.35150866)">
+      <use xlink:href="#aN" opacity=".377049"/>
+      <use xlink:href="#aO" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(-.05296 0 0 .07002 -48.43156 68.98989)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.1752927 -44.35150866)">
+      <use xlink:href="#aN" opacity=".377049"/>
+      <use xlink:href="#aO" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 171.8219 76.79169)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 100.17590416 -44.35152621)">
+      <path d="m-608.3125 1373.9375-324.34375 3.6563h568.4375v-.8126z" opacity=".377049"/>
+      <path fill="#fff" d="m-932.65625 1377.6875 324.34375 3.1875 244.09375-2.4688v-.7187z" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 173.6097 74.51697)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.1759543 -44.35163015)">
+      <use xlink:href="#aP" opacity=".377049"/>
+      <use xlink:href="#aQ" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 173.6097 74.51697)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.1759543 -44.35163015)">
+      <use xlink:href="#aP" opacity=".377049"/>
+      <use xlink:href="#aQ" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 167.2929 72.05274)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08779 0 0 .10199 204.9654 63.28209)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 169.0807 69.77825)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17583816 -44.35161618)">
+      <use xlink:href="#aR" opacity=".377049"/>
+      <use xlink:href="#aS" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 169.0807 69.77825)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08295 0 0 .10199 198.1965 61.00738)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(-.05296 0 0 .07002 -48.05016 81.63257)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 99.17489209 -44.35143314)">
+      <path d="m-870.9375 1418.9375-147.5625 2.1875v1.4688h401.53125z" opacity=".377049"/>
+      <path fill="#fff" d="M-1018.5 1422.6875v1.2813l147.5625 1.9062 253.96875-3.1875z" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(-.05296 0 0 .07002 -46.26222 79.35808)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 99.17508208 -44.35162906)">
+      <use xlink:href="#aT" opacity=".377049"/>
+      <use xlink:href="#aU" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(-.05296 0 0 .07002 -46.26222 79.35808)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 99.17508208 -44.35162906)">
+      <use xlink:href="#aT" opacity=".377049"/>
+      <use xlink:href="#aU" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.17540045 -44.35160093)">
+      <path d="M-892.65625 1353.1875-1018.5 1354.875v.8438H-697z" opacity=".377049"/>
+      <path fill="#fff" d="M-1018.5 1355.7812v.7188l125.84375 1.4375L-697 1355.7812z" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.17558442 -44.35151054)">
+      <use xlink:href="#aV" opacity=".377049"/>
+      <use xlink:href="#aW" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.17558442 -44.35151054)">
+      <use xlink:href="#aV" opacity=".377049"/>
+      <use xlink:href="#aW" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .07002 169.4623 82.42072)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 100.17599183 -44.35165265)">
+      <path d="m-643.21875 1426.2812-324.3125 3.6563h603.3125v-.4063z" opacity=".377049"/>
+      <path fill="#fff" d="m-967.53125 1430.0312 324.3125 3.1876 279-2.8126v-.375z" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .07002 171.25 80.14622)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 100.17584197 -44.35175659)">
+      <use xlink:href="#aX" opacity=".377049"/>
+      <use xlink:href="#aY" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .07002 171.25 80.14622)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 100.17584197 -44.35175659)">
+      <use xlink:href="#aX" opacity=".377049"/>
+      <use xlink:href="#aY" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 163.9325 77.68199)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17599036 -44.3516135)">
+      <path d="m-510.09375 1371.375-324.34375 3.6562h470.21875v-1.9687z" opacity=".377049"/>
+      <path fill="#fff" d="m-834.4375 1375.125 324.34375 3.1875 145.875-1.4687v-1.7188z" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.08779 0 0 .10199 202.6057 68.91154)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 165.7204 75.4075)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08779 0 0 .10199 204.3934 66.63663)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 165.7204 75.4075)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.08779 0 0 .10199 204.3934 66.63663)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(-.05296 0 0 .07002 -43.51012 90.47857)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(-.06874 0 0 .10199 -74.79105 81.70791)">
+      <path d="M-1975.2125 351.23894h429.3652l-179.4773-3.85802z" opacity=".377049"/>
+      <path fill="#fff" d="m-1975.2125 351.33039 427.0204 2.15435-177.1325 1.19926z" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(-.05296 0 0 .07002 -41.72208 88.20407)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(-.06874 0 0 .10199 -73.0034 79.4332)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <path fill="#fff" d="m-1975.2125 351.33039 468.5563.53859-242.6185 3.35361z" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(-.05296 0 0 .07002 -41.72208 88.20407)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(-.06874 0 0 .10199 -73.0034 79.4332)">
+      <path d="m-1975.2125 351.23894 468.2213 1.79529-218.3334-5.65331z" opacity=".377049"/>
+      <path fill="#fff" d="M-1502.6118705 351.32776657v.2636945l-222.7238344 3.09851586-249.87627757-3.36221036z" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(-.05296 0 0 .07002 -49.03956 85.73984)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(-.05296 0 0 .07002 -47.25171 83.46535)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 99.17500908 -44.3517935)">
+      <use xlink:href="#aZ" opacity=".377049"/>
+      <use xlink:href="#ba" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(-.05296 0 0 .07002 -47.25171 83.46535)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .10757 99.17500908 -44.3517935)">
+      <use xlink:href="#aZ" opacity=".377049"/>
+      <use xlink:href="#ba" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.06764 0 0 .07002 173.0019 91.26693)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.08779 0 0 .10199 211.6749 82.49605)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.06764 0 0 .07002 174.7897 88.99244)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.08779 0 0 .10199 213.4626 80.22156)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.06764 0 0 .07002 174.7897 88.99244)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.08779 0 0 .10199 213.4626 80.22156)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .07002 168.4729 86.5282)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.08779 0 0 .10199 207.146 77.75733)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .07002 170.2606 84.25371)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.06764 0 0 .10757 100.17573212 -44.35157904)">
+      <path d="m-631.40625 1443.3125-324.34375 3.6563h591.53125v-.5626z" opacity=".377049"/>
+      <path fill="#fff" d="m-955.75 1447.0625 324.34375 3.1875 267.1875-2.7188v-.4687z" opacity=".377049"/>
+    </g>
+    <g opacity=".02" transform="matrix(.06764 0 0 .07002 170.2606 84.25371)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".01" transform="matrix(.0812 0 0 .10199 195.9011 75.48284)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17519447 -44.35154328)">
+      <path d="M-908.3125 1137.375-1018.5 1139v2.0312h364.15625z" opacity=".377049"/>
+      <path fill="#fff" d="M-1018.5 1141.125v1.75l110.1875 1.4062 253.96875-3.1562z" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .10199 204.6066 43.35895)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .07002 -47.03877 60.18746)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 99.17527487 -44.35143069)">
+      <use xlink:href="#bb" opacity=".377049"/>
+      <use xlink:href="#bc" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .07002 -44.25062 57.91297)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17509612 -44.35150423)">
+      <use xlink:href="#bd" opacity=".377049"/>
+      <use xlink:href="#be" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .07002 -44.25062 57.91297)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17509612 -44.35150423)">
+      <use xlink:href="#bd" opacity=".377049"/>
+      <use xlink:href="#be" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17540194 -44.35132753)">
+      <path d="m-877.71875 1153.8438-140.78125 1.8437v.6563h336.46875z" opacity=".377049"/>
+      <path fill="#fff" d="M-1018.5 1156.4062v.5626l140.78125 1.625 195.6875-2.1876z" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17524273 -44.35139225)">
+      <use xlink:href="#bf" opacity=".377049"/>
+      <use xlink:href="#bg" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17524273 -44.35139225)">
+      <use xlink:href="#bf" opacity=".377049"/>
+      <use xlink:href="#bg" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .07002 170.4736 60.97582)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17585426 -44.351379)">
+      <use xlink:href="#bh" opacity=".377049"/>
+      <use xlink:href="#bi" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 172.2612 58.70132)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".03" transform="matrix(.06764 0 0 .10757 100.17599219 -44.35145255)">
+      <use xlink:href="#bj" opacity=".377049"/>
+      <use xlink:href="#bk" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 172.2612 58.70132)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 164.944 56.2371)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .10199 203.6169 47.46622)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 167.7324 53.9626)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .10199 205.4046 45.19172)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 167.7324 53.9626)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08515 0 0 .10199 200.1918 45.19172)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <path d="M63.010092 71.379793h42.545168l-20.958617-.33715z" opacity=".040984"/>
+    <path fill="#fff" d="M103.94356 71.387176v.02097l-19.348502.272695-21.586067-.293665z" opacity=".040984"/>
+    <use xlink:href="#bl" opacity=".040984"/>
+    <use xlink:href="#bm" opacity=".040984"/>
+    <use xlink:href="#bn" opacity=".040984"/>
+    <use xlink:href="#bo" opacity=".040984"/>
+    <use xlink:href="#bl" opacity=".040984"/>
+    <use xlink:href="#bm" opacity=".040984"/>
+    <use xlink:href="#bn" opacity=".040984"/>
+    <use xlink:href="#bo" opacity=".040984"/>
+    <path d="m91.98348 65.739038 11.9601.154624v.117663H70.397459z" opacity=".06"/>
+    <path fill="#fff" d="M103.94358 66.018043v.100836l-11.9601.131142-21.586021-.231978z" opacity=".06"/>
+    <use xlink:href="#bp" opacity=".06"/>
+    <use xlink:href="#bq" opacity=".06"/>
+    <use xlink:href="#bp" opacity=".06"/>
+    <use xlink:href="#bq" opacity=".06"/>
+    <path d="M98.406221 72.363554H44.069729l26.767237-.337128z" opacity=".040984"/>
+    <path fill="#fff" d="M98.406221 72.371539H44.069729l26.767237.293063z" opacity=".040984"/>
+    <path d="M99.24496 75.431234H28.72144l34.741305-.491021z" opacity=".040984"/>
+    <path fill="#fff" d="M99.24496 75.442889H28.72144l34.741305.426846z" opacity=".040984"/>
+    <use xlink:href="#br" opacity=".040984"/>
+    <use xlink:href="#bs" opacity=".040984"/>
+    <use xlink:href="#bt" opacity=".040984"/>
+    <use xlink:href="#bu" opacity=".040984"/>
+    <use xlink:href="#br" opacity=".040984"/>
+    <use xlink:href="#bs" opacity=".040984"/>
+    <use xlink:href="#bt" opacity=".040984"/>
+    <use xlink:href="#bu" opacity=".040984"/>
+    <path d="M105.79344 66.798286H51.456942l26.767237-.27014z" opacity=".06"/>
+    <path fill="#fff" d="M103.94699 66.804705v.016805l-25.723273.218499-26.767941-.235304z" opacity=".06"/>
+    <path d="M106.00604 69.517378H37.10928l33.939924-.491044z" opacity=".040984"/>
+    <path fill="#fff" d="M103.9436 69.528602v.046169l-32.094635.381794-34.739046-.427963z" opacity=".040984"/>
+    <use xlink:href="#bv" opacity=".06"/>
+    <use xlink:href="#bw" opacity=".06"/>
+    <use xlink:href="#bx" opacity=".040984"/>
+    <use xlink:href="#by" opacity=".040984"/>
+    <use xlink:href="#bz" opacity=".06"/>
+    <path fill="#fff" d="M104.71674 66.991115H34.19321l34.741294.342065z" opacity=".040984"/>
+    <use xlink:href="#bv" opacity=".06"/>
+    <use xlink:href="#bw" opacity=".06"/>
+    <use xlink:href="#bx" opacity=".040984"/>
+    <use xlink:href="#by" opacity=".040984"/>
+    <use xlink:href="#bz" opacity=".06"/>
+    <path fill="#fff" d="M103.94699 66.989592v.006696l-35.011385.336184-34.742473-.34288z" opacity=".040984"/>
+    <path d="M57.236708 79.594802h42.545185l-20.958611-.27014z" opacity=".03"/>
+    <path fill="#fff" d="M57.236708 79.601199h42.545185l-20.958611.234811z" opacity=".03"/>
+    <use xlink:href="#bA" opacity=".03"/>
+    <use xlink:href="#bB" opacity=".03"/>
+    <use xlink:href="#bA" opacity=".03"/>
+    <use xlink:href="#bB" opacity=".03"/>
+    <path d="m86.212035 76.169753 17.731525.285294v.050332H64.622534z" opacity=".03"/>
+    <path fill="#fff" d="M103.94356 76.513793v.046125l-17.731525.247539-21.589501-.293664z" opacity=".03"/>
+    <use xlink:href="#bC" opacity=".03"/>
+    <use xlink:href="#bD" opacity=".03"/>
+    <use xlink:href="#bE" opacity=".03"/>
+    <use xlink:href="#bF" opacity=".03"/>
+    <use xlink:href="#bC" opacity=".03"/>
+    <use xlink:href="#bD" opacity=".03"/>
+    <use xlink:href="#bE" opacity=".03"/>
+    <use xlink:href="#bF" opacity=".03"/>
+    <path d="M92.632839 80.383116h-54.33647l26.767238-.27014z" opacity=".040984"/>
+    <path d="M100.01996 77.489483H45.683494l26.767214-.337106z" opacity=".03"/>
+    <path fill="#fff" d="M100.01996 77.49749H45.683494l26.767214.29302z" opacity=".03"/>
+    <path d="M97.104028 74.650755h-54.33647l26.767237-.337107z" opacity=".040984"/>
+    <use xlink:href="#bG" opacity=".040984"/>
+    <path d="m62.160112 77.227028 35.783689.490849H30.758457v-.046125zm34.943916-2.576273h-54.33647l26.767237-.337107z" opacity=".040984"/>
+    <use xlink:href="#bG" opacity=".040984"/>
+    <path d="M97.942897 77.718522H31.306342l32.826498-.491044z" opacity=".040984"/>
+    <path d="m90.059643 80.214327 13.883917.181538v.09077H68.47362zm10.893337-1.215246H46.61651l26.767236-.27014z" opacity=".03"/>
+    <use xlink:href="#bH" opacity=".03"/>
+    <path d="M100.95298 78.999081H46.61651l26.767236-.27014z" opacity=".03"/>
+    <use xlink:href="#bH" opacity=".03"/>
+    <path d="m84.434099 56.998686 18.251471.174799v.218499H42.366616z" opacity=".1"/>
+    <path fill="#fff" d="M102.68557 57.402116v.188235l-18.251471.151275-42.067483-.33951z" opacity=".1"/>
+    <path d="M35.863769 63.779028h63.875888l-31.466552-.270141z" opacity=".06"/>
+    <path fill="#fff" d="M35.863769 63.785424h63.875888l-31.466552.234811z" opacity=".06"/>
+    <path d="m86.012027 65.843243 17.931463.258852v.134447H57.996021z" opacity=".06"/>
+    <path fill="#fff" d="M103.94349 66.246651v.117642l-17.931463.225239-28.016006-.342881z" opacity=".06"/>
+    <use xlink:href="#bI" opacity=".040984"/>
+    <use xlink:href="#bJ" opacity=".040984"/>
+    <use xlink:href="#bK" opacity=".040984"/>
+    <use xlink:href="#bL" opacity=".06"/>
+    <use xlink:href="#bI" opacity=".040984"/>
+    <use xlink:href="#bJ" opacity=".040984"/>
+    <use xlink:href="#bK" opacity=".040984"/>
+    <use xlink:href="#bL" opacity=".06"/>
+    <path d="m79.366626 58.770311 23.319054.198345v.070594H46.952887z" opacity=".1"/>
+    <path fill="#fff" d="M102.68568 59.045989v.060506l-23.319054.174799-32.413739-.235305z" opacity=".06"/>
+    <path d="M42.576685 56.765764h63.875885l-31.466549-.27014z" opacity=".06"/>
+    <path fill="#fff" d="M102.68566 56.773469v.026873l-27.698188.205084-32.408564-.231957z" opacity=".1"/>
+    <use xlink:href="#bM" opacity=".06"/>
+    <use xlink:href="#bN" opacity=".06"/>
+    <path d="m74.987472 56.494443 27.698188.238674v.033634H42.578908z" opacity=".1"/>
+    <use xlink:href="#bM" opacity=".06"/>
+    <use xlink:href="#bN" opacity=".06"/>
+    <path d="M94.832189 64.56732H40.49572l26.767236-.27014z" opacity=".06"/>
+    <path fill="#fff" d="M94.832189 64.573716H40.49572l26.767236.234812z" opacity=".06"/>
+    <path d="m59.888119 66.633231 35.783666.393321H30.758486v-.063876z" opacity=".040984"/>
+    <path fill="#fff" d="m95.671785 67.033248-35.783666.342924-29.129633-.289136v-.053788z" opacity=".040984"/>
+    <path d="m56.971259 64.357385 35.783712.39332H30.758388v-.097488z" opacity=".040984"/>
+    <path fill="#fff" d="m92.754971 64.760793-35.783712.34288-26.212871-.258828v-.084052z" opacity=".040984"/>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .08738 -49.22982 41.05376)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#au" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .08738 -47.44217 38.21543)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 99.1750657 -98.10805992)">
+      <use xlink:href="#aw" opacity=".377049"/>
+      <use xlink:href="#ax" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .08738 -47.44217 38.21543)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 99.1750657 -98.10805992)">
+      <use xlink:href="#aw" opacity=".377049"/>
+      <use xlink:href="#ax" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17518222 -65.05967465)">
+      <use xlink:href="#ay" opacity=".377049"/>
+      <use xlink:href="#az" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.1752562 -65.05958426)">
+      <use xlink:href="#aA" opacity=".377049"/>
+      <use xlink:href="#aB" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.1752562 -65.05958426)">
+      <use xlink:href="#aA" opacity=".377049"/>
+      <use xlink:href="#aB" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .08738 168.2823 42.03765)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .12728 206.9554 31.09187)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .08738 170.0703 39.19888)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 100.17584802 -98.10815477)">
+      <use xlink:href="#aC" opacity=".377049"/>
+      <use xlink:href="#aD" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .08738 170.0703 39.19888)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 100.17584802 -98.10815477)">
+      <use xlink:href="#aC" opacity=".377049"/>
+      <use xlink:href="#aD" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 162.7529 42.49848)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#aE" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .12728 201.4257 25.17802)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#aF" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 164.5406 40.22377)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".06" transform="matrix(.06764 0 0 .10757 100.17584655 -65.05979457)">
+      <use xlink:href="#aG" opacity=".377049"/>
+      <use xlink:href="#aH" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .10199 203.2138 31.45312)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 164.5406 40.22377)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".06" transform="matrix(.06764 0 0 .10757 100.17584655 -65.05979457)">
+      <use xlink:href="#aG" opacity=".377049"/>
+      <use xlink:href="#aH" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .10199 203.2138 31.45312)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#aI" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .07002 -44.68948 55.29505)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.1749461 -65.05977263)">
+      <use xlink:href="#aJ" opacity=".377049"/>
+      <use xlink:href="#aK" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.1749461 -65.05977263)">
+      <use xlink:href="#aJ" opacity=".377049"/>
+      <use xlink:href="#aK" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 99.17525097 -98.10710278)">
+      <use xlink:href="#aL" opacity=".377049"/>
+      <use xlink:href="#aM" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .08738 -48.43156 43.34113)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 99.1752927 -98.10811619)">
+      <use xlink:href="#aN" opacity=".377049"/>
+      <use xlink:href="#aO" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .08738 -48.43156 43.34113)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 99.1752927 -98.10811619)">
+      <use xlink:href="#aN" opacity=".377049"/>
+      <use xlink:href="#aO" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .08738 167.2929 47.16359)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08779 0 0 .10199 204.9654 42.57382)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .08738 169.0807 44.32482)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .13425 100.17583816 -98.10796558)">
+      <use xlink:href="#aR" opacity=".377049"/>
+      <use xlink:href="#aS" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .08738 169.0807 44.32482)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.08295 0 0 .12728 198.1965 33.37926)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17558442 -65.05956054)">
+      <use xlink:href="#aV" opacity=".377049"/>
+      <use xlink:href="#aW" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17558442 -65.05956054)">
+      <use xlink:href="#aV" opacity=".377049"/>
+      <use xlink:href="#aW" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 165.7204 54.69923)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .07002 165.7204 54.69923)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(-.05296 0 0 .07002 -47.03877 39.47898)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17527487 -65.05970069)">
+      <use xlink:href="#bb" opacity=".377049"/>
+      <use xlink:href="#bc" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17509612 -65.05998423)">
+      <use xlink:href="#bd" opacity=".377049"/>
+      <use xlink:href="#be" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 99.17509612 -65.05998423)">
+      <use xlink:href="#bd" opacity=".377049"/>
+      <use xlink:href="#be" opacity=".377049"/>
+    </g>
+    <g opacity=".06" transform="matrix(.06764 0 0 .07002 170.4736 40.26734)">
+      <use xlink:href="#at" opacity=".377049"/>
+      <use xlink:href="#av" opacity=".377049"/>
+    </g>
+    <g opacity=".040984" transform="matrix(.06764 0 0 .10757 100.17585426 -65.059639)">
+      <use xlink:href="#bh" opacity=".377049"/>
+      <use xlink:href="#bi" opacity=".377049"/>
+    </g>
+    <g opacity=".06" transform="matrix(.06764 0 0 .10757 100.17599219 -65.05993255)">
+      <use xlink:href="#bj" opacity=".377049"/>
+      <use xlink:href="#bk" opacity=".377049"/>
+    </g>
+    <path d="M30.942104 113.53564h42.545195l-20.958613-.27015z" opacity=".01"/>
+    <path fill="#fff" d="M30.942104 113.54203h42.545195l-20.958613.23481z" opacity=".01"/>
+    <path d="M29.50168 115.99377h48.140241l-20.122916-.39346z" opacity=".01"/>
+    <path fill="#fff" d="m29.50168 116.00311 47.87734.21972-19.860015.1223z" opacity=".01"/>
+    <path d="M26.58563 113.71915h55.21963l-27.2023-.39347z" opacity=".01"/>
+    <path fill="#fff" d="m26.58563 113.72847 52.534345.05495-27.202277.34199z" opacity=".01"/>
+    <path d="m28.241426 113.71915 50.840972.18309-23.707333-.57656z" opacity=".01"/>
+    <path fill="#fff" d="M79.573396 113.72816v.02688l-24.122907.31603-27.063772-.34291z" opacity=".01"/>
+  </g>
+  <path fill="url(#bO)" d="M100 56c-.572166 3.386452-16.463883 4.880475-36.000003 4.880475C44.465308 60.880475 28.572169 59.384988 28 56z"/>
+  <path fill="#fff" fill-opacity=".756881" d="M-43.635589 26.888673v-2.794709zm32.61327-212.552493v-2.79471z"/>
+  <path fill="url(#bP)" d="M84.173141 34c.108103.599462.119483 1.315995.076859 2H96c.016436-.276104.014891-.555516.004015-.828125-.009675-.241845-.036551-.479895-.067269-.71875-.019714-.153283-.061918-.302465-.088605-.453125z"/>
+</svg>

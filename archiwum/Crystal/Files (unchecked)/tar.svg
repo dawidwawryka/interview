@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128" viewBox="0 0 128 128">
+  <linearGradient id="c" x1="63.92" x2="63.92" y1="154.565" y2="-100.935" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset=".246" stop-color="#f6f6f6"/>
+    <stop offset=".637" stop-color="#dfdfdf"/>
+    <stop offset="1" stop-color="#c4c4c4"/>
+  </linearGradient>
+  <linearGradient id="a">
+    <stop offset="0" stop-color="#b3b3b3"/>
+    <stop offset="1" stop-color="#828282"/>
+  </linearGradient>
+  <linearGradient id="d" x1="-26.333" x2="56.166" y1="-26.333" y2="56.166" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="e" x1="43.023" x2="204.007" y1="25.421" y2="111.065" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset=".86" stop-color="#dadada"/>
+    <stop offset="1" stop-color="#d4d4d4"/>
+  </linearGradient>
+  <linearGradient id="f" x1="-3.728" x2="127.593" y1="10.651" y2="10.651" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#b3caff"/>
+    <stop offset="1" stop-color="#0053bd"/>
+  </linearGradient>
+  <radialGradient id="g" cx="108.467" cy="118.249" r="34.736" gradientUnits="userSpaceOnUse">
+    <stop offset="0"/>
+    <stop offset="1"/>
+  </radialGradient>
+  <linearGradient id="h" x1="104.017" x2="95.088" y1="98.181" y2="135.794" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1" stop-color="#ccc"/>
+  </linearGradient>
+  <linearGradient id="i" x1="82.309" x2="96.104" y1="88.093" y2="101.888" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="j" x1="85.302" x2="41.845" y1="89.571" y2="46.114" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffe692"/>
+    <stop offset="1" stop-color="#ffffdc"/>
+  </linearGradient>
+  <linearGradient id="b">
+    <stop offset="0" stop-color="#744426"/>
+    <stop offset="1" stop-color="#de972b"/>
+  </linearGradient>
+  <linearGradient id="k" x1="88.085" x2="40.494" y1="92.355" y2="44.764" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="l" x1="53.9" x2="32.111" y1="108.346" y2="36.189" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffb82d"/>
+    <stop offset="1" stop-color="#ffffdc"/>
+  </linearGradient>
+  <linearGradient id="m" x1="49.556" x2="87.605" y1="62.829" y2="85.512" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffa221"/>
+    <stop offset="1" stop-color="#ffe192"/>
+  </linearGradient>
+  <linearGradient id="n" x1="62.388" x2="62.388" y1="74.371" y2="36.49" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffac2d"/>
+    <stop offset="1" stop-color="#ffffdc"/>
+  </linearGradient>
+  <linearGradient id="o" x1="80.296" x2="64.229" y1="64.916" y2="48.849" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <linearGradient id="p" x1="73.049" x2="61.824" y1="42.362" y2="39.339" gradientUnits="userSpaceOnUse" xlink:href="#b"/>
+  <path fill="#fff" d="m121.164 1.052h-114.328v125.896h80.701l33.627-33.627z"/>
+  <path fill="url(#c)" d="m117.734 4.019h-107.468l-.16 122.654h76.457l31.172-31.252v-91.402z"/>
+  <path fill="url(#d)" d="m121.164.552h-114.828v126.896h81.408l33.92-33.92v-92.976zm-.5 1v91.562c-.289.289-33.045 33.045-33.334 33.334-.41 0-79.01 0-79.994 0 0-.988 0-123.909 0-124.896.986 0 112.342 0 113.328 0z"/>
+  <path fill="url(#e)" d="m118.006 15.223v-11.283h-107.807l-.096 65.34c9.975 4.547 21.151 7.096 32.954 7.096 37.345 0 68.398-27.5 74.949-61.153z"/>
+  <path fill="url(#f)" d="m117.692 17.023h-107.384v-12.744h107.385v12.744z"/>
+  <path fill="url(#g)" d="m85.191 90.976v35.754h1.793l33.639-33.639v-2.115z" opacity=".1"/>
+  <path fill="#fff" d="m87.537 126.948 33.627-33.627h-33.627z"/>
+  <path fill="url(#h)" d="m89.865 125.056 29.594-29.592h-29.594z"/>
+  <path fill="url(#i)" d="m87.537 92.821c-.277 0-.5.223-.5.5v33.627c0 .203.121.385.309.463.186.076.402.033.545-.109l33.627-33.627c.143-.145.186-.359.109-.545-.078-.188-.26-.309-.463-.309zm32.42 1c-1.58 1.578-30.342 30.34-31.92 31.92 0-2.209 0-30.986 0-31.92z"/>
+  <path fill="url(#j)" d="m28.555 81.263v-36.18l37.352-20.586 29.923 27.165v35.968l-37.775 20.585z"/>
+  <path fill="url(#k)" d="m65.446 23.661-37.352 20.585c-.305.168-.493.488-.493.836v36.18c0 .269.111.523.31.705l29.5 26.953c.301.275.743.329 1.101.134l37.775-20.586c.309-.167.5-.489.5-.839v-35.967c0-.269-.113-.525-.312-.707l-29.926-27.166c-.304-.274-.746-.325-1.103-.128zm.324 2.002c.966.877 28.503 25.875 29.106 26.421v34.979c-.955.52-35.537 19.365-36.681 19.988-.961-.879-28.086-25.664-28.684-26.21 0-.812 0-34.111 0-35.195.946-.521 35.118-19.354 36.259-19.983z"/>
+  <path fill="url(#l)" d="m58.114 73.658.021 31.491-27.632-24.471-.025-33.994 26.253 23.25s.882.646 1.141 1.752c.26 1.104.242 1.972.242 1.972z"/>
+  <path fill="url(#m)" d="m59.464 73.985-.023 31.49 34.832-18.733.025-33.993-33.405 17.511s-.913.647-1.181 1.752c-.269 1.105-.248 1.973-.248 1.973z"/>
+  <path fill="url(#n)" d="m65.658 26.496 27.896 25.644-32.67 17.123s-1.26.424-2.066.349c-.807-.074-1.791-.889-1.791-.889l-25.806-23.11z"/>
+  <path fill="url(#o)" d="m58.992 70.326 5.236-25.838 30.152 7.799-29.395-1.828z" opacity=".8"/>
+  <path fill="url(#p)" d="m65.009 26.032-.78 18.456-33.272.706 31.608-1.985z" opacity=".7"/>
+  <g fill="#fff">
+    <path d="m14.619 15.221v-7.14h-2.531v-1.454h6.797v1.453h-2.531v7.141z"/>
+    <path d="m26.871 15.221h-1.867l-.745-1.953h-3.447l-.706 1.953h-1.859l3.305-8.594h1.857zm-3.184-3.406-1.199-3.188-1.152 3.188z"/>
+    <path d="m27.787 15.221v-8.594h3.646c.916 0 1.582.077 1.998.231.415.154.748.429.998.823s.375.845.375 1.352c0 .645-.188 1.176-.565 1.596-.376.419-.94.684-1.689.793.373.219.682.46.925.723.243.262.571.728.984 1.397l1.048 1.679h-2.074l-1.245-1.874c-.446-.669-.751-1.091-.916-1.265-.164-.174-.338-.293-.522-.358-.184-.064-.476-.097-.874-.097h-.353v3.594zm1.734-4.969h1.282c.831 0 1.35-.035 1.557-.105s.368-.19.485-.362c.117-.171.176-.385.176-.642 0-.288-.077-.52-.231-.698-.154-.177-.372-.289-.652-.335-.141-.02-.562-.029-1.264-.029h-1.352v2.171z"/>
+  </g>
+  <path fill="none" d="m128 128h-128v-128h128z"/>
+</svg>

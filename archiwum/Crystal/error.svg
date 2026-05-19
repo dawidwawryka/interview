@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="125" height="125" viewBox="-.103 -.179 125 125">
+  <linearGradient id="b" x1="62.527" x2="62.527" y1="138.671" y2="-20.696" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffc200"/>
+    <stop offset=".155" stop-color="#f7b500"/>
+    <stop offset=".716" stop-color="#de8800"/>
+    <stop offset="1" stop-color="#d47700"/>
+  </linearGradient>
+  <linearGradient id="c" x1="62.527" x2="62.527" y1="35.001" y2="140.022" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ffa700"/>
+    <stop offset=".691" stop-color="#ff0"/>
+    <stop offset=".792" stop-color="#fffc00"/>
+    <stop offset=".855" stop-color="#fff400"/>
+    <stop offset=".907" stop-color="#ffe500"/>
+    <stop offset=".953" stop-color="#ffd100"/>
+    <stop offset=".995" stop-color="#ffb700"/>
+    <stop offset="1" stop-color="#ffb300"/>
+  </linearGradient>
+  <radialGradient id="d" cx="59.79" cy="115.691" r="93.466" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#ff0"/>
+    <stop offset=".164" stop-color="#fff100"/>
+    <stop offset=".719" stop-color="#ffc400"/>
+    <stop offset="1" stop-color="#ffb300"/>
+  </radialGradient>
+  <linearGradient id="e" x1="62.526" x2="62.526" y1="8.425" y2="67.423" gradientUnits="userSpaceOnUse">
+    <stop offset=".075" stop-color="#fff"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <linearGradient id="a">
+    <stop offset="0" stop-color="#fff"/>
+    <stop offset="1"/>
+  </linearGradient>
+  <linearGradient id="f" x1="62.852" x2="62.852" y1="-16.096" y2="55.161" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="g" x1="62.526" x2="62.526" y1="-16.095" y2="55.161" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="h" x1="68.301" x2="68.301" y1="-4.79" y2="60.037" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <linearGradient id="i" x1="68.004" x2="68.004" y1="-4.782" y2="60.039" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  <path fill="url(#b)" d="m0 62.528c0 34.476 28.049 62.525 62.526 62.525s62.526-28.049 62.526-62.525c.001-34.477-28.049-62.528-62.526-62.528s-62.526 28.051-62.526 62.528zm5.685 0c0-31.344 25.499-56.844 56.842-56.844s56.842 25.5 56.842 56.844c0 31.342-25.499 56.84-56.842 56.84s-56.842-25.497-56.842-56.84z"/>
+  <path fill="url(#c)" d="m122.211 62.528c0 32.962-26.721 59.683-59.683 59.683-32.964 0-59.685-26.721-59.685-59.683 0-32.963 26.72-59.686 59.685-59.686 32.962 0 59.683 26.723 59.683 59.686z"/>
+  <path fill="url(#d)" d="m116.848 72.487c0 24.794-24.319 44.892-54.32 44.892-30.002 0-54.321-20.098-54.321-44.892 0-24.792 24.319-44.89 54.321-44.89 30 0 54.32 20.097 54.32 44.89z"/>
+  <path fill="url(#e)" d="m112.466 42.079c0 19.898-22.358 36.031-49.939 36.031s-49.94-16.132-49.94-36.031c0-19.9 22.358-36.032 49.939-36.032s49.94 16.132 49.94 36.032z"/>
+  <g fill-rule="evenodd" clip-rule="evenodd">
+    <path fill="url(#f)" d="m73.911 71.072c0 5.095-4.128 9.221-9.221 9.221h-3.676c-5.093 0-9.222-4.126-9.222-9.221v-45.312c0-5.094 4.128-9.22 9.222-9.22h3.676c5.093 0 9.221 4.126 9.221 9.22z"/>
+    <path fill="url(#g)" d="m74.562 97.533c0 6.646-5.388 12.036-12.035 12.036-6.646 0-12.035-5.391-12.035-12.036 0-6.647 5.389-12.035 12.035-12.035 6.647 0 12.035 5.387 12.035 12.035z"/>
+    <g opacity=".2">
+      <path fill="url(#h)" d="m78.362 74.512c0 4.635-3.756 8.388-8.389 8.388h-3.345c-4.633 0-8.391-3.753-8.391-8.388v-41.223c0-4.635 3.757-8.388 8.391-8.388h3.345c4.633 0 8.389 3.753 8.389 8.388z"/>
+      <path fill="url(#i)" d="m78.953 98.584c0 6.045-4.901 10.949-10.948 10.949-6.048 0-10.951-4.904-10.951-10.949 0-6.047 4.903-10.948 10.951-10.948 6.047 0 10.948 4.902 10.948 10.948z"/>
+    </g>
+  </g>
+</svg>

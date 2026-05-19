@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128">
+  <defs>
+    <path id="x" d="M427.22 662.293a103.488 51.744 0 1 1-206.977 0 103.488 51.744 0 1 1 206.976 0z"/>
+    <path id="A" fill="#2a2007" d="M618.25 431.294v12c0 28.578 46.314 51.75 103.469 51.75s103.5-23.172 103.5-51.75v-12z" mask="url(#a)" opacity=".525"/>
+    <path id="B" fill="#3b1d06" d="M426.695 662.293c0 28.577-46.098 51.743-102.964 51.743s-102.964-23.166-102.964-51.743c0-28.578 46.099-51.744 102.964-51.744s102.964 23.166 102.964 51.744z" filter="url(#b)" opacity=".743"/>
+    <path id="C" fill="url(#c)" d="M220.25 662.05v12c0 28.577 46.314 51.75 103.469 51.75s103.5-23.173 103.5-51.75v-12z"/>
+    <path id="D" fill="url(#d)" d="M427.22 662.293c0 28.577-46.334 51.743-103.489 51.743s-103.488-23.166-103.488-51.743c0-28.578 46.333-51.744 103.488-51.744s103.488 23.166 103.488 51.744z"/>
+    <path id="E" fill="url(#e)" d="M323.719 350.719c-61.3 0-110.969 24.85-110.969 55.5s49.669 55.5 110.969 55.5 111-24.85 111-55.5-49.7-55.5-111-55.5zm0 3.75c57.155 0 103.5 23.172 103.5 51.75s-46.345 51.75-103.5 51.75-103.469-23.173-103.469-51.75 46.314-51.75 103.469-51.75z" clip-path="url(#f)" filter="url(#g)"/>
+    <path id="F" fill="url(#h)" d="M220.25 520.889v4c0 28.577 46.314 51.75 103.469 51.75s103.5-23.173 103.5-51.75v-4c0 28.577-46.345 51.75-103.5 51.75s-103.469-23.173-103.469-51.75z" clip-path="url(#i)" filter="url(#j)"/>
+    <path id="H" d="M323.719 288.47c-57.155 0-103.469 23.173-103.469 51.75 0 .167-.003.335 0 .5.534-28.347 46.646-51.25 103.469-51.25s102.966 22.903 103.5 51.25c.003-.165 0-.333 0-.5 0-28.577-46.345-51.75-103.5-51.75z" clip-path="url(#k)" filter="url(#l)"/>
+    <path id="J" fill="url(#m)" d="M427.22 662.293c0 28.577-46.334 51.743-103.489 51.743s-103.488-23.166-103.488-51.743c0-28.578 46.333-51.744 103.488-51.744s103.488 23.166 103.488 51.744z" filter="url(#n)"/>
+    <path id="K" fill="url(#o)" d="M59.969 975.356c-15.434 0-27.938 5.742-27.938 12.844 0 .832.172 1.649.5 2.437.022.053.04.104.063.156.007.013.024.02.031.032 3.133 5.603 14.188 9.75 27.344 9.75s24.21-4.147 27.343-9.75c.035-.063.061-.125.094-.188.328-.788.531-1.605.531-2.437 0-7.102-12.534-12.844-27.968-12.844z"/>
+    <path id="L" fill="none" stroke="url(#p)" d="M-39.026 905.906c-15.434 0-28.338 6.042-28.338 13.144 0 .832.172 1.649.5 2.437.022.053.04.104.063.156.007.013.024.02.031.032 3.133 5.603 14.588 10.05 27.744 10.05s24.51-4.447 27.644-10.05c.034-.063.06-.125.093-.188.329-.788.532-1.605.532-2.437 0-7.102-12.835-13.144-28.27-13.144z" clip-path="url(#q)" filter="url(#r)" opacity=".579"/>
+    <path id="O" fill="url(#s)" d="M618.25 431.294v12c0 28.578 46.314 51.75 103.469 51.75s103.5-23.172 103.5-51.75v-12z" mask="url(#a)" opacity=".525"/>
+  </defs>
+  <defs>
+    <linearGradient id="w">
+      <stop offset="0" stop-color="#fdfef9"/>
+      <stop offset=".536" stop-color="#e5af64"/>
+      <stop offset=".601" stop-color="#fff"/>
+      <stop offset=".665" stop-color="#efd1a8"/>
+      <stop offset=".73" stop-color="#f4e2ca"/>
+      <stop offset=".794" stop-color="#faf3ed"/>
+      <stop offset=".88" stop-color="#fddbd7"/>
+      <stop offset=".954" stop-color="#e5d6d0"/>
+      <stop offset=".975" stop-color="#f9edc8"/>
+      <stop offset="1" stop-color="#904c12"/>
+    </linearGradient>
+    <linearGradient id="v">
+      <stop offset="0" stop-color="#edefbb"/>
+      <stop offset=".536" stop-color="#e5af64"/>
+      <stop offset=".794" stop-color="#af652c"/>
+      <stop offset=".88" stop-color="#671006"/>
+      <stop offset=".954" stop-color="#ac7966"/>
+      <stop offset=".975" stop-color="#f9edc8"/>
+      <stop offset="1" stop-color="#9b5315"/>
+    </linearGradient>
+    <linearGradient id="u">
+      <stop offset="0" stop-color="#dda646"/>
+      <stop offset=".44" stop-color="#cc6d1b"/>
+      <stop offset=".626" stop-color="#b23a03"/>
+      <stop offset=".759" stop-color="#7e0d04"/>
+      <stop offset=".85" stop-color="#972203"/>
+      <stop offset="1" stop-color="#ca5a08"/>
+    </linearGradient>
+    <linearGradient id="t">
+      <stop offset="0" stop-color="#fde593"/>
+      <stop offset=".102" stop-color="#ffe087"/>
+      <stop offset=".204" stop-color="#ffe689"/>
+      <stop offset=".275" stop-color="#fbb256"/>
+      <stop offset=".413" stop-color="#a44b0c"/>
+      <stop offset=".482" stop-color="#833206"/>
+      <stop offset=".55" stop-color="#702506"/>
+      <stop offset=".579" stop-color="#702506"/>
+      <stop offset=".607" stop-color="#7c2e09"/>
+      <stop offset=".663" stop-color="#c6681f"/>
+      <stop offset=".703" stop-color="#fd9831"/>
+      <stop offset=".775" stop-color="#ffa235"/>
+      <stop offset=".854" stop-color="#f1882b"/>
+      <stop offset=".912" stop-color="#944010"/>
+      <stop offset="1" stop-color="#6d2405"/>
+    </linearGradient>
+    <linearGradient xlink:href="#t" id="R" x1="857.273" x2="857.273" y1="249.532" y2="384.207" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#u" id="S" x1="446.457" x2="446.457" y1="937.597" y2="1057.006" gradientTransform="matrix(1 0 0 1.1257 417.223 -805.704)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#v" id="T" x1="265.501" x2="265.501" y1="694.452" y2="842.682" gradientTransform="matrix(1 0 0 .90506 608.423 -378.619)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#t" id="d" x1="359.554" x2="359.554" y1="578.706" y2="892.575" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#t" id="c" x1="220.25" x2="324.041" y1="693.925" y2="693.925" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#t" id="e" x1="479.189" x2="323.734" y1="523.49" y2="347.809" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#v" id="h" x1="323.653" x2="422.329" y1="544.756" y2="544.756" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#w" id="G" x1="291.032" x2="418.956" y1="280.319" y2="314.596" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#w" id="m" x1="215.004" x2="435.226" y1="667.463" y2="599.625" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#t" id="o" x1="323.723" x2="323.723" y1="559.995" y2="895.42" gradientTransform="matrix(.27004 0 0 .24852 -27.44 823.612)" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#u" id="p" x1="-66.964" x2="-11.057" y1="918.815" y2="918.815" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#t" id="s" x1="618.25" x2="722.041" y1="463.169" y2="463.169" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <linearGradient xlink:href="#t" id="Q" x1="359.554" x2="359.554" y1="576.544" y2="892.575" gradientUnits="userSpaceOnUse" spreadMethod="reflect"/>
+    <filter id="g" width="1.123" height="1.247" x="-.062" y="-.123" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="5.706"/>
+    </filter>
+    <filter id="j" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.314"/>
+    </filter>
+    <filter id="b" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".776"/>
+    </filter>
+    <filter id="I" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".194"/>
+    </filter>
+    <filter id="l" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".259"/>
+    </filter>
+    <filter id="y" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.967"/>
+    </filter>
+    <filter id="r">
+      <feGaussianBlur stdDeviation=".598"/>
+    </filter>
+    <filter id="n">
+      <feGaussianBlur stdDeviation=".394"/>
+    </filter>
+    <filter id="M">
+      <feBlend in2="SourceGraphic" mode="multiply"/>
+    </filter>
+    <clipPath id="f">
+      <use xlink:href="#x" transform="translate(0 -256.066)"/>
+    </clipPath>
+    <clipPath id="i">
+      <path d="M220.25 510.889v12c0 28.577 46.314 51.75 103.469 51.75s103.5-23.173 103.5-51.75v-12z"/>
+    </clipPath>
+    <clipPath id="k">
+      <use xlink:href="#x" transform="translate(0 -321.578)"/>
+    </clipPath>
+    <clipPath id="q">
+      <path d="M-39.026 906.206c-15.434 0-27.938 5.742-27.938 12.844 0 .832.172 1.649.5 2.437.022.053.04.104.063.156.007.013.024.02.031.032 3.133 5.603 14.188 9.75 27.344 9.75s24.21-4.147 27.344-9.75c.034-.063.06-.125.093-.188.329-.788.532-1.605.532-2.437 0-7.102-12.535-12.844-27.97-12.844z"/>
+    </clipPath>
+    <clipPath id="P">
+      <path d="m102.914 976.069.105 5.142c-.012 3.325-1.747 6.664-4.557 9.596-.466.486-.96.96-1.481 1.421-.232 4.86 3.14 8.342-1.432 9.74l-10.102 18.077-84.513 35.894-51.88-83.124 5.858-52.057 121.33-57.096 96.228 54.577z"/>
+    </clipPath>
+    <mask id="a" maskUnits="userSpaceOnUse">
+      <path fill="#fff" d="M619.469 435.188a26.243 26.243 0 0 0-.219 3.5c0 28.577 46.314 51.75 103.469 51.75s103.5-23.173 103.5-51.75c0-1.18-.095-2.34-.25-3.5-3.581 26.954-48.435 48.25-103.25 48.25-54.816 0-99.67-21.296-103.25-48.25z" filter="url(#y)"/>
+    </mask>
+    <mask id="N" maskUnits="userSpaceOnUse">
+      <path fill="url(#z)" stroke="#000" stroke-linejoin="round" stroke-width="19.499" d="M98.512 397.181h409.334v188.073H98.512z"/>
+    </mask>
+    <pattern xlink:href="#t" id="z" patternTransform="matrix(.5122 0 0 .29944 179.358 660.11)"/>
+  </defs>
+  <use xlink:href="#A" mask="url(#a)" opacity=".525" transform="translate(-151.912 -68.705) scale(.28907)"/>
+  <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.28806 0 0 .28907 -36.412 -134.335)"/>
+  <use xlink:href="#C" transform="translate(-36.737 -138.21) scale(.28907)"/>
+  <use xlink:href="#D" transform="translate(-36.737 -138.21) scale(.28907)"/>
+  <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-36.737 -64.19) scale(.28907)"/>
+  <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-36.737 -94.502) scale(.28907)"/>
+  <g fill="url(#G)" transform="translate(-36.737 -138.21) scale(.28907)">
+    <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+    <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+  </g>
+  <g opacity=".708">
+    <use xlink:href="#J" filter="url(#n)" transform="matrix(.22402 0 0 .20617 -15.68 -84.477)"/>
+    <use xlink:href="#K" transform="translate(7.588 -758.895) scale(.82117)"/>
+    <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(88.885 -702.112) scale(.82117)"/>
+  </g>
+  <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-36.737 -85.027) scale(.28907)">
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+    <use xlink:href="#C" transform="translate(0 -183.756)"/>
+    <use xlink:href="#D" transform="translate(0 -183.756)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+    <g fill="url(#G)" transform="translate(0 -183.756)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+  </g>
+  <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-151.912 -77.41) scale(.28907)"/>
+  <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.28806 0 0 .28907 -36.412 -143.04)"/>
+  <use xlink:href="#C" transform="translate(-36.737 -146.914) scale(.28907)"/>
+  <use xlink:href="#D" transform="translate(-36.737 -146.914) scale(.28907)"/>
+  <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-36.737 -72.894) scale(.28907)"/>
+  <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-36.737 -103.207) scale(.28907)"/>
+  <g fill="url(#G)" transform="translate(-36.737 -146.914) scale(.28907)">
+    <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+    <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+  </g>
+  <g opacity=".708">
+    <use xlink:href="#J" filter="url(#n)" transform="matrix(.22402 0 0 .20617 -15.68 -93.182)"/>
+    <use xlink:href="#K" transform="translate(7.588 -767.6) scale(.82117)"/>
+    <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(88.885 -710.816) scale(.82117)"/>
+  </g>
+  <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-36.737 -93.732) scale(.28907)">
+    <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-398.436 56.69)"/>
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+    <use xlink:href="#C" transform="translate(0 -183.756)"/>
+    <use xlink:href="#D" transform="translate(0 -183.756)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+    <g fill="url(#G)" transform="translate(0 -183.756)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+  </g>
+  <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-151.912 -84.722) scale(.28907)"/>
+  <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.28806 0 0 .28907 -36.412 -150.353)"/>
+  <use xlink:href="#C" transform="translate(-36.737 -154.227) scale(.28907)"/>
+  <use xlink:href="#D" transform="translate(-36.737 -154.227) scale(.28907)"/>
+  <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-36.737 -80.207) scale(.28907)"/>
+  <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-36.737 -110.52) scale(.28907)"/>
+  <g fill="url(#G)" transform="translate(-36.737 -154.227) scale(.28907)">
+    <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+    <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+  </g>
+  <g opacity=".708">
+    <use xlink:href="#J" filter="url(#n)" transform="matrix(.22402 0 0 .20617 -15.68 -100.495)"/>
+    <use xlink:href="#K" transform="translate(7.588 -774.913) scale(.82117)"/>
+    <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(88.885 -718.129) scale(.82117)"/>
+  </g>
+  <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-36.737 -101.044) scale(.28907)">
+    <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-398.436 56.69)"/>
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+    <use xlink:href="#C" transform="translate(0 -183.756)"/>
+    <use xlink:href="#D" transform="translate(0 -183.756)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+    <g fill="url(#G)" transform="translate(0 -183.756)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+  </g>
+  <g clip-path="url(#P)" transform="matrix(.69578 0 0 .6934 19.283 -647.498)">
+    <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-240.046 800.949) scale(.41545)"/>
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.414 0 0 .41545 -74.047 706.623)"/>
+    <use xlink:href="#C" transform="translate(-74.515 701.055) scale(.41545)"/>
+    <use xlink:href="#D" transform="translate(-74.515 701.055) scale(.41545)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-74.515 807.438) scale(.41545)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-74.515 763.871) scale(.41545)"/>
+    <g fill="url(#G)" transform="translate(-74.515 701.055) scale(.41545)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+    <g opacity=".708">
+      <use xlink:href="#J" filter="url(#n)" transform="matrix(.32197 0 0 .2963 -44.251 778.28)"/>
+      <use xlink:href="#K" transform="translate(-10.809 -191.011) scale(1.1802)"/>
+      <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(106.033 -109.4) scale(1.1802)"/>
+    </g>
+    <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-74.515 777.49) scale(.41545)">
+      <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-398.436 56.69)"/>
+      <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+      <use xlink:href="#C" transform="translate(0 -183.756)"/>
+      <use xlink:href="#D" transform="translate(0 -183.756)"/>
+      <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+      <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+      <g fill="url(#G)" transform="translate(0 -183.756)">
+        <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+        <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+      </g>
+    </g>
+  </g>
+  <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-152.912 -100.722) scale(.28907)"/>
+  <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.28806 0 0 .28907 -37.412 -166.353)"/>
+  <use xlink:href="#C" transform="translate(-37.737 -170.227) scale(.28907)"/>
+  <use xlink:href="#D" transform="translate(-37.737 -170.227) scale(.28907)"/>
+  <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-37.737 -96.207) scale(.28907)"/>
+  <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-37.737 -126.52) scale(.28907)"/>
+  <g fill="url(#G)" transform="translate(-37.737 -170.227) scale(.28907)">
+    <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+    <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+  </g>
+  <g opacity=".708">
+    <use xlink:href="#J" filter="url(#n)" transform="matrix(.22402 0 0 .20617 -16.68 -116.495)"/>
+    <use xlink:href="#K" transform="translate(6.588 -790.913) scale(.82117)"/>
+    <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(87.885 -734.129) scale(.82117)"/>
+  </g>
+  <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-37.737 -117.044) scale(.28907)">
+    <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-398.436 56.69)"/>
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+    <use xlink:href="#C" transform="translate(0 -183.756)"/>
+    <path fill="url(#Q)" d="M427.22 662.293c0 28.577-46.334 51.743-103.489 51.743s-103.488-23.166-103.488-51.743c0-28.578 46.333-51.744 103.488-51.744s103.488 23.166 103.488 51.744z" transform="translate(0 -183.756)"/>
+    <path fill="url(#e)" d="M323.719 347.26c-61.3 0-110.969 28.309-110.969 58.959s49.669 55.5 110.969 55.5 111-24.85 111-55.5-49.7-58.96-111-58.96zm0 3.75c57.155 0 103.5 26.631 103.5 55.209s-46.345 51.75-103.5 51.75-103.469-23.173-103.469-51.75 46.314-55.21 103.469-55.21z" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+    <g fill="url(#G)" transform="translate(0 -183.756)">
+      <path d="M323.719 285.011c-57.155 0-103.469 26.632-103.469 55.21 0 .166-.003.334 0 .5.534-28.348 46.646-54.71 103.469-54.71s102.966 26.362 103.5 54.71c.003-.166 0-.334 0-.5 0-28.578-46.345-55.21-103.5-55.21z" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+  </g>
+  <path fill="url(#R)" d="M849.192 249.653h8.081v134.493h-8.081z" transform="translate(0 -924.362)"/>
+  <path fill="url(#S)" d="M859.7 249.756h7.961v134.42H859.7z" transform="translate(0 -924.362)"/>
+  <path fill="url(#T)" d="M869.702 249.904h8.444v134.158h-8.444z" transform="translate(0 -924.362)"/>
+  <use xlink:href="#D" transform="translate(397 -1414.952)"/>
+  <use xlink:href="#A" mask="url(#a)" opacity=".525" transform="translate(-207.393 -47.713) scale(.34997)"/>
+  <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.34876 0 0 .34997 -67.557 -127.173)"/>
+  <use xlink:href="#C" transform="translate(-67.95 -131.863) scale(.34997)"/>
+  <use xlink:href="#D" transform="translate(-67.95 -131.863) scale(.34997)"/>
+  <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-67.95 -42.246) scale(.34997)"/>
+  <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-67.95 -78.947) scale(.34997)"/>
+  <g fill="url(#G)" transform="translate(-67.95 -131.863) scale(.34997)">
+    <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+    <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+  </g>
+  <g opacity=".708">
+    <use xlink:href="#J" filter="url(#n)" transform="matrix(.27122 0 0 .2496 -42.457 -66.81)"/>
+    <use xlink:href="#K" transform="translate(-14.285 -883.333) scale(.9942)"/>
+    <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(84.142 -814.584) scale(.9942)"/>
+  </g>
+  <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-67.95 -67.475) scale(.34997)">
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+    <use xlink:href="#C" transform="translate(0 -183.756)"/>
+    <use xlink:href="#D" transform="translate(0 -183.756)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+    <g fill="url(#G)" transform="translate(0 -183.756)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+  </g>
+  <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-207.393 -58.252) scale(.34997)"/>
+  <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.34876 0 0 .34997 -67.557 -137.711)"/>
+  <use xlink:href="#C" transform="translate(-67.95 -142.402) scale(.34997)"/>
+  <use xlink:href="#D" transform="translate(-67.95 -142.402) scale(.34997)"/>
+  <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-67.95 -52.785) scale(.34997)"/>
+  <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-67.95 -89.485) scale(.34997)"/>
+  <g fill="url(#G)" transform="translate(-67.95 -142.402) scale(.34997)">
+    <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+    <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+  </g>
+  <g opacity=".708">
+    <use xlink:href="#J" filter="url(#n)" transform="matrix(.27122 0 0 .2496 -42.457 -77.348)"/>
+    <use xlink:href="#K" transform="translate(-14.285 -893.871) scale(.9942)"/>
+    <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(84.142 -825.123) scale(.9942)"/>
+  </g>
+  <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-67.95 -78.013) scale(.34997)">
+    <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-398.436 56.69)"/>
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+    <use xlink:href="#C" transform="translate(0 -183.756)"/>
+    <use xlink:href="#D" transform="translate(0 -183.756)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+    <g fill="url(#G)" transform="translate(0 -183.756)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+  </g>
+  <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-207.393 -67.105) scale(.34997)"/>
+  <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.34876 0 0 .34997 -67.557 -146.565)"/>
+  <use xlink:href="#C" transform="translate(-67.95 -151.255) scale(.34997)"/>
+  <use xlink:href="#D" transform="translate(-67.95 -151.255) scale(.34997)"/>
+  <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-67.95 -61.639) scale(.34997)"/>
+  <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-67.95 -98.34) scale(.34997)"/>
+  <g fill="url(#G)" transform="translate(-67.95 -151.255) scale(.34997)">
+    <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+    <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+  </g>
+  <g opacity=".708">
+    <use xlink:href="#J" filter="url(#n)" transform="matrix(.27122 0 0 .2496 -42.457 -86.202)"/>
+    <use xlink:href="#K" transform="translate(-14.285 -902.725) scale(.9942)"/>
+    <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(84.142 -833.977) scale(.9942)"/>
+  </g>
+  <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-67.95 -86.867) scale(.34997)">
+    <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-398.436 56.69)"/>
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+    <use xlink:href="#C" transform="translate(0 -183.756)"/>
+    <use xlink:href="#D" transform="translate(0 -183.756)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+    <g fill="url(#G)" transform="translate(0 -183.756)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+  </g>
+  <g clip-path="url(#P)" transform="matrix(.8424 0 0 .8395 -.126 -748.463)">
+    <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-240.046 800.949) scale(.41545)"/>
+    <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.414 0 0 .41545 -74.047 706.623)"/>
+    <use xlink:href="#C" transform="translate(-74.515 701.055) scale(.41545)"/>
+    <use xlink:href="#D" transform="translate(-74.515 701.055) scale(.41545)"/>
+    <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(-74.515 807.438) scale(.41545)"/>
+    <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(-74.515 763.871) scale(.41545)"/>
+    <g fill="url(#G)" transform="translate(-74.515 701.055) scale(.41545)">
+      <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+      <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+    </g>
+    <g opacity=".708">
+      <use xlink:href="#J" filter="url(#n)" transform="matrix(.32197 0 0 .2963 -44.251 778.28)"/>
+      <use xlink:href="#K" transform="translate(-10.809 -191.011) scale(1.1802)"/>
+      <use xlink:href="#L" clip-path="url(#q)" filter="url(#r)" opacity=".579" transform="translate(106.033 -109.4) scale(1.1802)"/>
+    </g>
+    <g filter="url(#M)" mask="url(#N)" opacity=".708" transform="translate(-74.515 777.49) scale(.41545)">
+      <use xlink:href="#O" mask="url(#a)" opacity=".525" transform="translate(-398.436 56.69)"/>
+      <use xlink:href="#B" filter="url(#b)" opacity=".743" transform="matrix(.99653 0 0 1 1.125 -170.354)"/>
+      <use xlink:href="#C" transform="translate(0 -183.756)"/>
+      <use xlink:href="#D" transform="translate(0 -183.756)"/>
+      <use xlink:href="#E" clip-path="url(#f)" filter="url(#g)" transform="translate(0 72.31)"/>
+      <use xlink:href="#F" clip-path="url(#i)" filter="url(#j)" transform="translate(0 -32.556)"/>
+      <g fill="url(#G)" transform="translate(0 -183.756)">
+        <use xlink:href="#H" clip-path="url(#k)" filter="url(#l)" transform="translate(0 321.578)"/>
+        <use xlink:href="#H" filter="url(#I)" transform="matrix(1 0 0 -1 0 1003.22)"/>
+      </g>
+    </g>
+  </g>
+</svg>

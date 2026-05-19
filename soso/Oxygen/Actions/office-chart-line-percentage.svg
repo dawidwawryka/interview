@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg height="128" width="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient id="linearGradient3174">
+      <stop offset="0" stop-color="#0968ef"/>
+      <stop offset="1" stop-color="#aecffc"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3768" gradientUnits="userSpaceOnUse" x1="57.975407" x2="101.76408" y1="98.70945" y2="54.92078">
+      <stop offset="0" stop-color="#7c7c7c"/>
+      <stop offset="1" stop-color="#d5d5d5"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3772" gradientUnits="userSpaceOnUse" x1="51.642986" x2="91.708961" y1="93.308617" y2="23.912312">
+      <stop offset="0" stop-color="#b900c4"/>
+      <stop offset="1" stop-color="#ae4300"/>
+    </linearGradient>
+    <linearGradient id="linearGradient3224" gradientUnits="userSpaceOnUse" x1="61.929188" x2="107.46219" xlink:href="#linearGradient3174" y1="31.278873" y2="4.990381"/>
+    <linearGradient id="linearGradient3309" gradientUnits="userSpaceOnUse" x1="88.66258" x2="81.16216" xlink:href="#linearGradient3174" y1="28.601852" y2=".609901"/>
+  </defs>
+  <g>
+    <path d="m120 118-4-2-8-4v4h-100v4h100v4l8-4z" fill="#797979" opacity=".613861"/>
+    <g fill="#787878" fill-opacity=".615686">
+      <rect height="4" rx="0" width="8" x="4" y="96"/>
+      <rect height="4" rx="0" width="8" x="4" y="76"/>
+      <rect height="4" rx="0" width="8" x="4" y="56"/>
+      <rect height="4" rx="0" width="8" x="4" y="36"/>
+      <rect height="4" rx="0" transform="rotate(-90)" width="8" x="-124" y="92"/>
+      <rect height="4" rx="0" transform="rotate(-90)" width="8" x="-124" y="72"/>
+      <rect height="4" rx="0" transform="rotate(-90)" width="8" x="-124" y="52"/>
+      <rect height="4" rx="0" transform="rotate(-90)" width="8" x="-124" y="32"/>
+    </g>
+    <path d="m10 8-2 4-4 8h4v96h4v-96h4l-4-8z" fill="#797979" opacity=".613861"/>
+    <path d="m24 109 32-8 24-16 24 4" fill="none" stroke="url(#linearGradient3768)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="m24 51 36 16 20-12 24 16" fill="none" stroke="url(#linearGradient3772)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    <path d="m24 32c-1.104569.051777-1.958027.989181-1.90625 2.09375s.989181 1.958027 2.09375 1.90625h80c.72127.010201 1.39216-.368751 1.75578-.991746.36361-.622995.36361-1.393513 0-2.016508-.36362-.622995-1.03451-1.001947-1.75578-.991746h-80c-.062466-.002931-.125034-.002931-.1875 0z" fill="url(#linearGradient3224)" fill-rule="evenodd"/>
+    <path d="m72 12v3.125h-4v4.875h4v8h4v-16zm12 0v3h-4v10h4v3h4v-3h4v-10h-4v-3zm16 0v3h-4v10h4v3h4v-3h4v-10h-4v-3zm14 0c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2zm8 2-10 10v2h2l10-10v-2zm-38 2h4v8h-4zm16 0h4v8h-4zm22 8c-1.104 0-2 .896-2 2s.896 2 2 2 2-.896 2-2-.896-2-2-2z" fill="url(#linearGradient3309)"/>
+  </g>
+</svg>

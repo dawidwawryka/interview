@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128">
+  <defs>
+    <linearGradient id="g">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".53333336"/>
+    </linearGradient>
+    <linearGradient id="f">
+      <stop offset="0" stop-color="#fff" stop-opacity=".68627453"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".33333334"/>
+    </linearGradient>
+    <linearGradient id="d">
+      <stop offset="0" stop-color="#fff" stop-opacity=".49803922"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="c">
+      <stop offset="0" stop-color="red"/>
+      <stop offset="1" stop-color="#f33"/>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#7c0000"/>
+      <stop offset="1" stop-color="#9b0000"/>
+    </linearGradient>
+    <linearGradient id="h">
+      <stop offset="0" stop-color="#b10000"/>
+      <stop offset="1" stop-color="#d80000"/>
+    </linearGradient>
+    <linearGradient id="i">
+      <stop offset="0" stop-color="#b10000"/>
+      <stop offset="1" stop-color="#d80000"/>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="n" x1="146.13541" x2="307.59146" y1="195.18137" y2="195.18137" gradientTransform="translate(-22.145248 469.48231) scale(.21562)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#7c0000"/>
+      <stop offset="1" stop-color="#9b0000"/>
+    </linearGradient>
+    <linearGradient xlink:href="#b" id="o" x1="146.13541" x2="307.59146" y1="195.18137" y2="195.18137" gradientTransform="matrix(-.21562 0 0 .21562 147.9806 469.10115)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#c" id="p" x1="394.05634" x2="399.62119" y1="15.993165" y2="506.82651" gradientTransform="translate(-22.145248 469.48231) scale(.21562)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#d" id="q" x1="343.66666" x2="268" y1="448.75" y2="367.08334" gradientTransform="translate(-22.145248 469.84168) scale(.21562)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient id="e">
+      <stop offset="0" stop-color="#fff" stop-opacity=".49803922"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient xlink:href="#e" id="r" x1="343.66666" x2="268" y1="448.75" y2="367.08334" gradientTransform="matrix(-.21562 0 0 .21562 148.73239 469.93152)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#f" id="s" x1="390.25598" x2="395.82144" y1="27.395046" y2="341.46832" gradientTransform="translate(-22.145248 469.48231) scale(.21562)" gradientUnits="userSpaceOnUse"/>
+    <linearGradient xlink:href="#g" id="t" x1="397.83682" x2="407.67566" y1="356.04816" y2="552.27032" gradientTransform="translate(-22.145248 469.48231) scale(.21562)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#h" id="k" cx="396.66666" cy="291.04828" r="183.33334" fx="396.66666" fy="291.04828" gradientTransform="matrix(.21561 -.00137 .00139 .21784 -22.546922 482.87749)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#h" id="l" cx="138.47507" cy="464.1218" r="39.980125" fx="138.47507" fy="464.1218" gradientTransform="matrix(.40826 .34636 -.5859 .6906 223.10656 196.57164)" gradientUnits="userSpaceOnUse"/>
+    <radialGradient xlink:href="#i" id="m" cx="138.47507" cy="464.1218" r="39.980125" fx="138.47507" fy="464.1218" gradientTransform="matrix(-.40826 .34636 .5859 .6906 -96.508873 196.57164)" gradientUnits="userSpaceOnUse"/>
+    <filter id="j" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="8.2500001"/>
+    </filter>
+  </defs>
+  <path fill="#333" fill-opacity=".6" d="M185 51.666666 140.83333 92.5l.83334 72.5 142.5 145.83334-156.66667 112.5-.83334 79.99999 90 71.66667 177.50001-159.16667L580 580l82.5-71.66666 2.5-82.50001-169.16666-110 149.99999-145L645 90.833333l-68.33333-42.5L392.5 215.83333z" filter="url(#j)" transform="translate(-22.145248 -2.51769) scale(.21562)"/>
+  <path fill="url(#k)" d="m23.901476 577.79152-.751425 12.9326c2.368947 1.62008 26.582667-23.09004 39.874002-34.63504 13.381176 11.6049 37.873357 35.36246 40.143517 34.81471l-.67699-12.55595-38.853049-35.32293z" transform="translate(0 -472)"/>
+  <path fill="url(#l)" d="m6.6434802 562.08843 17.3955538 15.54689-.698804 13.0866c-1.14895.57181-10.84198-7.5774-16.2629656-14.23009-.9509626-4.26356-.2891894-9.60227-.4337842-14.4034z" transform="translate(0 -472)"/>
+  <path fill="url(#m)" d="m120.29816 562.82897-17.80755 15.59498.58716 12.38781c5.48089-2.80204 15.63351-12.96059 16.62232-14.85897.62044-2.3981.39872-8.74923.59807-13.12382z" transform="translate(0 -472)"/>
+  <path fill="url(#n)" d="m8.9830832 490.22188 35.8293458 35.19406-6.972578 6.18846c-9.237766-9.00845-22.349393-20.92232-27.713272-27.02536-1.0017565-2.07694-.8894502-10.03712-1.1434958-14.35716z" transform="translate(0 -472)"/>
+  <path fill="url(#o)" d="m116.43389 490.45605-35.156844 34.45168 6.622234 6.44257c6.355815-7.58247 23.52414-22.34417 27.80949-27.15243.81672-4.50738.55597-9.45027.72512-13.74182z" transform="translate(0 -472)"/>
+  <path fill="url(#p)" d="M8.9714058 489.49676c.4322886-3.24125 16.8331472-17.78204 17.4335422-16.29643 1.902661-2.18442 23.6889 23.46646 36.486422 34.69224 11.973062-11.62911 34.496426-36.65366 35.919183-34.88733 1.788057-1.22687 18.469957 16.23596 17.597807 17.07681 1.74034 1.63146-21.949061 22.49841-34.989942 34.91553 12.82772 12.37089 41.995992 36.55566 38.927852 37.68441 1.2567.25648-11.12098 10.52795-15.56078 14.54629-1.89067 1.11556-2.62475 1.22621-2.90384.89346l-38.392225-34.91817-38.497488 34.30468c-1.122316.0103-1.589461-.0855-2.741533-.54915-5.217812-5.29171-16.7744664-14.76255-15.6813522-15.45969-.9541078-2.15044 25.2414782-24.06591 37.8622152-36.00903-10.472341-10.38073-37.5814124-34.85324-35.4598612-35.99362z" transform="translate(0 -472)"/>
+  <path fill="url(#q)" d="m22.212549 576.95024 40.901346-33.79828c-1.929711.84767-8.5611 1.09076-17.998582-.12376l-30.763299 26.53702c3.809398 3.35874 3.744326 3.34778 7.860535 7.38502z" transform="translate(0 -472)"/>
+  <path fill="url(#r)" d="m104.69224 577.16714-41.129135-33.92533c.627609.42777 9.71981-.4902 14.138836-1.79183l35.104949 28.77683c-1.40931 1.14325-4.647 3.98176-8.11465 6.94033z" transform="translate(0 -472)"/>
+  <path fill="url(#s)" d="m11.814659 488.88798 36.116103 35.75672-15.093292 14.73394c7.304341 4.09131 16.1903 4.38674 25.155481 4.49205l5.39047-5.03111 4.132681 4.31238c7.249979-.44729 14.691931-2.8142 22.280576-6.64824l-12.398057-11.31996 36.116099-36.11611c-5.01112-4.56187-11.40617-11.51833-14.733927-12.93712-4.084752 2.06274-23.943084 23.48574-36.041679 35.16508-12.183296-11.84148-34.061372-34.45494-36.549887-35.52442-5.432062 4.05199-9.586314 8.74289-14.374568 13.11679z" transform="translate(0 -472)"/>
+  <path fill="#f33" d="m22.247126 104.92128 41.046453-38.0817 41.506551 38.36213c-1.33541.63996-2.4966.58306-3.59363.26953L63.383421 71.24181l-38.204239 34.25575c-1.198839.39312-1.972795-.0112-2.932056-.57628z"/>
+  <path fill="url(#t)" d="m22.201262 577.02184 41.03405-38.01106 41.673848 38.17985v9.98403c-1.3129 1.45279-2.75078 1.49471-4.06368-.12294l-.002-7.63763-37.481047-33.28826-36.97284 33.28826-.381162 7.63557c-1.69661 1.47353-3.173681 1.65729-4.451012-.12705z" transform="translate(0 -472)"/>
+</svg>

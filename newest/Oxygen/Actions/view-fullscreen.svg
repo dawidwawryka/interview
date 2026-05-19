@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128" height="128">
+  <defs>
+    <linearGradient id="d" x1="-333.0289" x2="-333.0289" y1="-1473.6504" y2="-776.61371" gradientTransform="matrix(.12146 0 0 .17566 195.18891 503.66043)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".49140647" stop-color="#fff"/>
+      <stop offset="1" stop-color="#dcdcdc"/>
+    </linearGradient>
+    <linearGradient id="b" x1="399.77466" x2="399.77466" y1="727.07941" y2="480.60214" gradientTransform="matrix(.12146 0 0 .17566 75.745932 148.34634)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#cbcbcd"/>
+      <stop offset=".5" stop-color="#e0e0e2"/>
+      <stop offset="1" stop-color="#f2f2f2"/>
+    </linearGradient>
+    <linearGradient id="c" x1="1055.3002" x2="1055.3002" y1="-468.66934" y2="-481.76657" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6f6f6f"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <filter id="a">
+      <feGaussianBlur stdDeviation="1.177891"/>
+    </filter>
+  </defs>
+  <g transform="translate(-79.62865 -236.8761)">
+    <rect width="124" height="111.6" x="81.628647" y="239.27611" filter="url(#a)" opacity=".4" rx="2.143353" ry="2.53025" transform="matrix(1 0 0 1.00358 0 2.742375)"/>
+    <rect width="119.99998" height="107.99998" x="83.628647" y="244.87613" fill="url(#b)" rx="2.074212" ry="2.448628"/>
+    <path id="e" fill="url(#c)" d="M1060.3605-478.60516a5.0602889 5.0602889 0 1 1-10.1206 0 5.0602889 5.0602889 0 1 1 10.1206 0z" transform="translate(-1057.64389814 826.35960064) scale(1.1857)"/>
+    <path fill="#fff" fill-opacity=".756881" d="M155.76156 235.68274v-2.83628z"/>
+    <path fill="url(#d)" d="M85.69115 244.87613c-1.149114 0-2.0625 1.08096-2.0625 2.43749V350.4386c0 1.35655.913386 2.4375 2.0625 2.4375h115.875c1.14913 0 2.0625-1.08095 2.0625-2.4375V247.31362c0-1.35653-.91337-2.43749-2.0625-2.43749zm1.40625 3.65625h113.0625c1.09166 0 1.96875 1.02406 1.96875 2.29688v98.24997c0 1.2728-.87709 2.29687-1.96875 2.29687H87.0974c-1.091657 0-1.96875-1.02407-1.96875-2.29687v-98.24997c0-1.27282.877093-2.29688 1.96875-2.29688z"/>
+    <path fill="#fff" d="M83.62865 276.8761h120v76h-120z"/>
+    <use xlink:href="#e" width="96" height="96" transform="translate(-16 -.000002)"/>
+    <use xlink:href="#e" width="96" height="96" transform="translate(-32 -.000002)"/>
+    <use xlink:href="#e" width="96" height="96" transform="translate(-96 -.000002)"/>
+    <path fill="#fff" fill-opacity=".756881" d="M79.77845 203.20599v-2.79471zm38.23271-21.59646v-1.42495z"/>
+    <path fill="#bf0303" d="m199.62865 280.8761-5.80266 23.28183-5.52893-6.7183-10.10244 10.10246-5.23197-5.23198 10.10246-10.10242-6.7183-5.52893zm-112 0 5.80266 23.28183 5.52893-6.7183 10.10244 10.10246 5.23197-5.23198-10.10246-10.10242 6.7183-5.52893zm112 68-5.80266-23.28183-5.52893 6.7183-10.10244-10.10246-5.23197 5.23198 10.10246 10.10242-6.7183 5.52893zm-112 0 5.80266-23.28183 5.52893 6.7183 10.10244-10.10246 5.23197 5.23198-10.10246 10.10242 6.7183 5.52893z"/>
+  </g>
+</svg>
